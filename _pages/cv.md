@@ -9,51 +9,35 @@ redirect_from:
 
 {% include base_path %}
 
+[Also available in PDF format](/files/CV_JiayingLu.pdf).
+
 Education
 ======
-* B.S. in Github, Github University, 2012
-* M.S. in Jekyll, Github University, 2014
-* Ph.D in Version Control Theory, Github University, 2018 (expected)
+* M.S. of Electronics and Communication Engineering, BUPT, 2017
+* B.S. of Information Engineering, BUPT, 2014
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* 2018.01-2018.06: NLP Engineer
+  * Xiaomi Search Group
+* 2017.04-2017.12: Data Mining Engineer
+  * BaiDu Search Advertising Department
+* 2016.10-2017.03: Data Mining Engineer Intern
+  * BaiDu Search Advertising Department
 
 Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Talks
+
+Projects
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
+- [BaizeNLP](https://github.com/lujiaying/BaizeNLP)
+- [MovieTaster](https://github.com/lujiaying/MovieTaster-Open)
+
 Teaching
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
