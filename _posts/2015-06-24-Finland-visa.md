@@ -17,25 +17,25 @@ tags:
 
 由于我需要交换一个学期，就需要申请居留权。芬兰移民局[官网](http://www.migri.fi/studying_in_finland)给出了一幅如何申请居留权的流程图:
 
-![1. 收到芬兰教育机构的接收函](http://7xkdra.com1.z0.glb.clouddn.com/image/blog/finnish_visa_1.png)
+![1. 收到芬兰教育机构的接收函](http://7xkdra.com1.z0.glb.clouddn.com/image/blog/finnish_visa_1.png)  
 收到芬兰教育机构的接收函
 
-![2. 在线填写居留权申请，并上传所需的材料](http://7xkdra.com1.z0.glb.clouddn.com/image/blog/finnish_visa_2.png)
+![2. 在线填写居留权申请，并上传所需的材料](http://7xkdra.com1.z0.glb.clouddn.com/image/blog/finnish_visa_2.png)  
 在线填写居留权申请，并上传所需的材料
 
-![3. 去大使馆面签，带上所需的材料](http://7xkdra.com1.z0.glb.clouddn.com/image/blog/finnish_visa_3.png)
+![3. 去大使馆面签，带上所需的材料](http://7xkdra.com1.z0.glb.clouddn.com/image/blog/finnish_visa_3.png)  
 去大使馆面签，带上所需的材料
 
-![4. 等待处理流程](http://7xkdra.com1.z0.glb.clouddn.com/image/blog/finnish_visa_4.png)
+![4. 等待处理流程](http://7xkdra.com1.z0.glb.clouddn.com/image/blog/finnish_visa_4.png)  
 等待处理流程
 
-![5. 得到结果](http://7xkdra.com1.z0.glb.clouddn.com/image/blog/finnish_visa_5.png)
+![5. 得到结果](http://7xkdra.com1.z0.glb.clouddn.com/image/blog/finnish_visa_5.png)  
 得到结果
 
-![6. 如果通过审核，居留卡会在两到三周内到达大使馆。届时需要再去大使馆取回](http://7xkdra.com1.z0.glb.clouddn.com/image/blog/finnish_visa_6.png)
+![6. 如果通过审核，居留卡会在两到三周内到达大使馆。届时需要再去大使馆取回](http://7xkdra.com1.z0.glb.clouddn.com/image/blog/finnish_visa_6.png)  
 如果通过审核，居留卡会在两到三周内到达大使馆。届时需要再去大使馆取回
 
-![7. 去芬兰愉快的玩耍吧 :)](http://7xkdra.com1.z0.glb.clouddn.com/image/blog/finnish_visa_7.png)
+![7. 去芬兰愉快的玩耍吧 :)](http://7xkdra.com1.z0.glb.clouddn.com/image/blog/finnish_visa_7.png)  
 去芬兰愉快的玩耍吧 :)
 
 看了上边的流程，想必大家都对如何申请有了一个感性的认识。接下来就让我给大家分享一点干货吧。
@@ -60,7 +60,7 @@ tags:
 
 PS: 下文所述来自芬兰驻华大使馆的[文件](http://www.finland.cn/public/download.aspx?ID=129064&GUID={7FB83686-CFB9-47DB-8622-AF05F00B05EF})。
 
-申请有两个途径：1.先通过网上申请，再预约大使馆面签。 2.直接前往大使馆申请。
+申请有两个途径：1.先通过网上申请，再预约大使馆面签。 2.直接前往大使馆申请。  
 一般来说，通过网上申请后只需携带1份材料，而直接申请需要携带复数份材料。
 
 - 填写完整且亲笔签名的申请表 [OLE_OPI](http://www.migri.fi/services/application_forms/residence_permit_application_forms#ole_opi_en) 两份。网上申请则需要一份申请表。
@@ -85,8 +85,7 @@ PS: 下文所述来自芬兰驻华大使馆的[文件](http://www.finland.cn/pub
 > 上海总领事馆的预约电话是： +86  21 5292 8650
 > 关于大使馆的管辖范围和更多详情，请进入[官网](http://www.finland.cn/public/default.aspx?nodeid=35200&contentlan=20&culture=zh-CN)查看。
 
-电话预约有可能用中文也可能用英文（取决于接你电话的人是谁），而面签一定会有面对芬兰签证官的过程，所以，去之前多做一些准备，确保能用英语表达自己，才能避免“悲剧”的发生。
-
+电话预约有可能用中文也可能用英文（取决于接你电话的人是谁），而面签一定会有面对芬兰签证官的过程，所以，去之前多做一些准备，确保能用英语表达自己，才能避免“悲剧”的发生。  
 像我打电话预约时直接碰上了签证官，他张口就是芬兰语。幸好我有所准备，比较顺利的预约成功。面试时，签证官一般也不会故意刁难你，如果你的材料齐全，基本上按个指纹，签个字就能走完流程。但如果你的材料有缺漏，或是签证时间和学习时间不符，就会被详细的“盘问”，这个时候就需要沉着应对，向签证官解释清楚原因。我去预约的那天，有几位同学都由于材料不齐而来回跑了几趟，实在是得不偿失。
 
 总之，拒签的几率比较小，一般有心出国的同学都能顺利通过。而且芬兰签证官一水儿的金发碧眼，充满魅力，抛去申请的忐忑，这样的聊天经历真是令人难忘。

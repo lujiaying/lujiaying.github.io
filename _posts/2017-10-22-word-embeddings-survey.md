@@ -9,8 +9,6 @@ tags:
 
 神经网络掀起了人工智能的浪潮，深度学习的热度也逐步盖过了机器学习。深度学习(Deep Learning)并不是一个新的概念，早在上个世纪七八十年代，深度神经网络(Deep Neural Netword)就诞生了。但由于数据集、运算能力的限制，深度学习经历了很长的低潮期，直到最近才在语音和图像应用上产生了突破性进展。不同于语音和图像领域，深度学习在自然语言处理(NLP)领域还没能表现出全面领先于传统统计机器学习方法的能力。不过，目前已有的一些研究也展露了深度学习在NLP应用上的潜力，词向量(word embedding)正是其中最基本也最广泛应用的。词向量目前常见的应用有：
 
-<!-- more -->
-
 1. 使用训练出的词向量作为输入特征，提升现有系统，如应用在情感分析、词性标注、语言翻译等神经网络中的输入层。
 2. 直接从语言学的角度对词向量进行应用，如使用向量的距离表示词语相似度、query相关性等。
 
@@ -80,10 +78,8 @@ $$|V|(1 + nm + h) + h(1 + (n - 1)m)=O(N(nm+h))$$
 
 2013年word2vec横空出世，背后的原理在Mikolov的两篇论文"Efficient Estimation of Word Representations in VectorSpace"[2], "Distributed Representations of Words and Phrases and their Compositionality"[3]中有详细的介绍。
 
-论文[2]主要提出了CBOW和Skip-gram两种网络结构来训练词向量，并使用语义word relationship test和语法word relationship两种测试集来评估模型的有效性。
-
-语义word relationship：$V(Athens)-V(Greece)+V(Norway)=V(Oslo)$
-
+论文[2]主要提出了CBOW和Skip-gram两种网络结构来训练词向量，并使用语义word relationship test和语法word relationship两种测试集来评估模型的有效性。  
+语义word relationship：$V(Athens)-V(Greece)+V(Norway)=V(Oslo)$  
 语法word relationship：$V(apparent)-V(apparently)+V(rapid)=V(rapidly)$
 
 ![Word2vec model architectures](http://7xkdra.com1.z0.glb.clouddn.com/image/blog/word2vec/word2vec_nn_struct.jpg)
@@ -102,10 +98,9 @@ $$\widehat{P}(w_{t}|w_{c})=\frac{e^{v_{w_{t}}^{T}v_{w_{c}}}}{\sum_{w=1}^{N}{v_{w
 
 $$L(\theta)=-\frac{1}{T}\sum_{t}log\ \widehat P(w_{t}|w_{c})+R(\theta)$$
  
-计算复杂度是：
+计算复杂度是：  
 
-$$nm+mlog_{2}(N)=O(mlog_{2}(N))$$
-
+$$nm+mlog_{2}(N)=O(mlog_{2}(N))$$  
 
 >论文原文 $N\times D+D\times log_{2}(V)$
 
@@ -129,13 +124,11 @@ $$n(m+nlog_{2}(N))=O(nmlog_{2}(N))$$
 
 NNLM到word2vec的发展使得计算复杂度由O(N)的**线性级降低到对数级**。
 
-目前有很多开源工具提供词向量训练的功能:
-
+目前有很多开源工具提供词向量训练的功能:  
 - fasttext: [facebookresearch/fastText](https://github.com/facebookresearch/fastText), PS: fasttext是mikolov跳槽到facebook后开发的。
 - gensim: [gensim: topic modelling for humans](https://radimrehurek.com/gensim/)
 
-使用主流的深度学习框架训练词向量也并不困难：
-
+使用主流的深度学习框架训练词向量也并不困难：  
 - tensorflow的官方教程：[Vector Representations of Words Tutorial](https://www.tensorflow.org/tutorials/word2vec)
 - Pytorch的官方教程：Word Embeddings: [Encoding Lexical Semantics](http://pytorch.org/tutorials/beginner/nlp/word_embeddings_tutorial.html#sphx-glr-beginner-nlp-word-embeddings-tutorial-py)
 
@@ -147,8 +140,6 @@ NNLM到word2vec的发展使得计算复杂度由O(N)的**线性级降低到对�
 
 ## 参考文献
 
-[1] Bengio Y, Schwenk H, Senécal J S, et al. Neural Probabilistic Language Models[J]. Journal of Machine Learning Research, 2003, 3(6):1137-1155.
-
-[2] Mikolov T, Chen K, Corrado G, et al. Efficient Estimation of Word Representations in Vector Space[J]. Computer Science, 2013.
-
+[1] Bengio Y, Schwenk H, Senécal J S, et al. Neural Probabilistic Language Models[J]. Journal of Machine Learning Research, 2003, 3(6):1137-1155.  
+[2] Mikolov T, Chen K, Corrado G, et al. Efficient Estimation of Word Representations in Vector Space[J]. Computer Science, 2013.  
 [3] Mikolov T, Sutskever I, Chen K, et al. Distributed representations of words and phrases and their compositionality[C]// International Conference on Neural Information Processing Systems. Curran Associates Inc. 2013:3111-3119.
