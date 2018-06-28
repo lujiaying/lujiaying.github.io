@@ -16,7 +16,7 @@ Updates
 ======
 
 - [2018/08/01] I joined [APG](https://yezhouyang.engineering.asu.edu/), ASU as a visiting student.
-- [2018/01/08] I joined Xiaomi Search Group as a NLP engineer.
-- [2017/04/12] I joined BaiDu Search Advertising Department as a data mining engineer.
-- [2017/03/24] I graduated from BUPT, China and got the master degree of communication engineering.
-- [2016/10/26] I joined BaiDu Search Advertising Department as a data mining engineer intern.
+- [2018/01/08] I joined [Xiaomi Search Group](https://dev.mi.com/console/flowservice/search.html) as a NLP engineer.
+- [2017/04/12] I joined [Baidu Search Advertising Department](http://e.baidu.com/product/ads-search) as a data mining engineer.
+- [2017/03/24] I graduated from [BUPT](https://www.bupt.edu.cn/), China and got the master degree of communication engineering.
+- [2016/10/26] I joined [Baidu Search Advertising Department](http://e.baidu.com/product/ads-search) as a data mining engineer intern.

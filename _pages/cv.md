@@ -21,9 +21,9 @@ Work experience
 * 2018.01-2018.06: NLP Engineer
   * Xiaomi Search Group
 * 2017.04-2017.12: Data Mining Engineer
-  * BaiDu Search Advertising Department
+  * Baidu Search Advertising Department
 * 2016.10-2017.03: Data Mining Engineer Intern
-  * BaiDu Search Advertising Department
+  * Baidu Search Advertising Department
 
 Publications
 ======
