@@ -26,14 +26,13 @@ tags: Life
 携带宠物及“北京市动物健康免疫证”，在符合资质的动物医院开具“宠物托运体检证明”（有效期24小时）。  
 携带“北京市动物健康免疫证”及“宠物托运体检证明”到对应区“动物监督所”办理动物托运证明（有效期：5天)。
 
-![检疫证明](http://7xkdra.com1.z0.glb.clouddn.com/image/blog/%E7%8C%AB%E5%92%AA%E6%A3%80%E7%96%AB%E5%90%88%E6%A0%BC%E8%AF%81%E6%98%8E.jpeg)
-
 3. 准备航空箱  
 航空箱请参考对应航空公司的要求，特别需要注意的是，如果你的航班是小航空公司出售，搭乘的是大航空公司的飞机，一定要问清楚。一般购买最高标准航空箱的不会错。  
 [国航航空箱标准](http://www.airchina.com.cn/cn/info/travel-prep/special-traveler/dog02.shtml)
 
-
 4. 带猫咪上飞机
+
+![检疫证明](http://7xkdra.com1.z0.glb.clouddn.com/image/blog/%E7%8C%AB%E5%92%AA%E6%A3%80%E7%96%AB%E5%90%88%E6%A0%BC%E8%AF%81%E6%98%8E.jpeg)
 
 ### 参考资料：
 
