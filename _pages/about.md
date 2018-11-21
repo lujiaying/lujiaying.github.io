@@ -8,9 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-I am a visiting student in ASU Active Perception Group, advised by Dr. [Yezhou Yang](https://yezhouyang.engineering.asu.edu/). Before that, I got my master(2017) and bachelor(2014) degree from BUPT, advised by Dr. Yong Li.
+I am a visiting student at Arizona State University [Active Perception Group](https://isearch.asu.edu/profile/3020558), advised by Dr. [Yezhou Yang](https://isearch.asu.edu/profile/3020558).  
+Before that, I obtained my master(2017) and bachelor(2014) degree from [Beijing University of Posts and Telecommunications](https://english.bupt.edu.cn/), advised by Dr. Yong Li.  
+From Apr 2017 through Jun 2018, I was a machine learning engineer at Baidu and Xiaomi.
 
-My research interest mainly focus on natural languages processing and knowledge graph.
+My research interests include natural languages processing, vision and language, knowledge graph.
 
 Updates
 ======

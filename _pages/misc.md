@@ -9,6 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Friends
+Important People
 ======
-- [Wenjing Ma](https://marvinquiet.github.io/), [Shixiang Zhu](https://scholar.google.com/citations?user=v6_Gv6IAAAAJ&hl=en), [Kaize Ding](https://kaize0409.github.io/)
+- Life Partner: [Wenjing Ma](https://marvinquiet.github.io/), 
+- Friends: [Shixiang Zhu](https://meowoodie.github.io/), [Kaize Ding](https://kaize0409.github.io/)
