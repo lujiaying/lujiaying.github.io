@@ -171,7 +171,6 @@ $$P(X\ ,\ Y)=\prod_{t=1}^{T} P(y_{t}|y_{t-1})*P(x_{t}|y_{t})$$
 
 熟悉HMM的同学都知道，[HMM](https://zh.wikipedia.org/zh-hans/隐马尔可夫模型)有三类基本问题：
 
-
 - 预测(filter)：已知模型参数和某一特定输出序列，求最后时刻各个隐含状态的概率分布，即求 `$P(x(t)\ |\ y(1),\cdots,y(t))$`。通常使用前向算法解决.
 - 平滑(smoothing)：已知模型参数和某一特定输出序列，求中间时刻各个隐含状态的概率分布，即求 `$P(x(k)\ |\ y(1),\cdots,y(t)), k<t$`。通常使用forward-backward 算法解决.
 - 解码(most likely explanation): 已知模型参数，寻找最可能的能产生某一特定输出序列的隐含状态的序列. 即求 `$P([x(1)\cdots x(t)]\ |\ [y(1)\cdots ,y(t)])$`, 通常使用Viterbi算法解决.
