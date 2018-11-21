@@ -8,12 +8,12 @@ tags: Life
 最近需要更换居住城市，小龙虾的去处成为了一个难题。好说歹说，我妈同意帮我养。剩下的主要问题就是猫如何从北京运回江西。  
 根据在网上的调研，猫咪长距离托运主要有两种方式：火车和飞机。两种方法各有优劣：火车费用低但时间长，且高铁不能托运；飞机费用贵但时间短，且比火车更危险。
 
-![出发前一天](http://7xkdra.com1.z0.glb.clouddn.com/image/blog/%E5%B0%8F%E9%BE%99%E8%99%BE%E5%87%BA%E5%8F%91%E5%89%8D.jpeg)
+![出发前一天](https://lujiaying.github.io/images/posts/Trasport-cat-the-day-before.jpeg)
 
 综合比较，我选择带小龙虾坐飞机。经过4小时的颠簸，小龙虾和我一起安全抵达，下飞机后他的精神不错，在机场还引来了围观。  
 现在，本来说“暂时”帮我养猫的爸妈已经“和小龙虾有了感情”，“不同意把小龙虾再拿走”。不得不说，猫真是人见人爱啊。
 
-![到达](http://7xkdra.com1.z0.glb.clouddn.com/image/blog/%E5%B0%8F%E9%BE%99%E8%99%BE%E5%88%B0%E8%BE%BE.jpeg)
+![到达](https://lujiaying.github.io/images/posts/Trasport-cat-arrive.jpeg)
 
 为了给未来希望托运猫咪的朋友提供一些帮助，下面是我记录的托运准备事项，仅供参考。  
 
@@ -32,7 +32,7 @@ tags: Life
 
 4. 带猫咪上飞机
 
-![检疫证明](http://7xkdra.com1.z0.glb.clouddn.com/image/blog/%E7%8C%AB%E5%92%AA%E6%A3%80%E7%96%AB%E5%90%88%E6%A0%BC%E8%AF%81%E6%98%8E.jpeg)
+![检疫证明](https://lujiaying.github.io/images/posts/Trasport-cat-certificate.jpeg)
 
 ### 参考资料：
 

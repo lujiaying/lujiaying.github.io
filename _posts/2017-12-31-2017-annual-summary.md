@@ -6,7 +6,7 @@ tags:
   - 年终总结
 ---
 
-![2017_summary](http://7xkdra.com1.z0.glb.clouddn.com/image/blog2017_summary.jpeg)
+![2017_summary](https://lujiaying.github.io/images/posts/blog2017_summary.jpeg)
 
 今年终于正式开启职业生涯，选择了*大厂核心广告部门*的算法工程师作为起点，历经前几个月的踌躇满志，到最后的心灰意冷，乃至离职。不得不说，社会给我好好地上了一课。此外，基于这件事我修改了未来几年的人生规划，新的计划更加关注成长性和天花板，同时也更加注重work-life balance，具体成功与否就看18年前几个月的努力了。失败的话就老老实实继续搬砖。
 
