@@ -5,7 +5,7 @@ permalink: /posts/2018/01/new-words-mining/
 tags: NLP
 ---
 
-在[分词](http://lujiaying.github.io/2018/01/24/%E4%B8%AD%E6%96%87%E5%88%86%E8%AF%8D%E7%AE%97%E6%B3%95%E7%AE%80%E4%BB%8B/)、词性标注、命名实体识别等自然语言处理基础任务，反作弊、知识图谱、新闻热点识别等文本挖掘应用中，未登录词是难以绕开的一个问题。从陌生语料中自动化的新词挖掘是解决该类问题的一种有效方法。
+在[分词](https://lujiaying.github.io/posts/2018/01/Chinese-word-segmentation/)、词性标注、命名实体识别等自然语言处理基础任务，反作弊、知识图谱、新闻热点识别等文本挖掘应用中，未登录词是难以绕开的一个问题。从陌生语料中自动化的新词挖掘是解决该类问题的一种有效方法。
 
 新词挖掘可以分为两大类：
 - 基于分词系统的新词挖掘
@@ -37,7 +37,7 @@ tags: NLP
 |9	|是计算机科学|
 |10	|重要|
 
-![web demo pic](http://7xkdra.com1.z0.glb.clouddn.com/image/blog/word_discovery_demo.jpeg)
+![web demo pic](https://lujiaying.github.io/images/posts/word_discovery_demo.jpeg)
 
 ## 新词挖掘的原理
 
