@@ -8,8 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-I am a first year Ph.D. student in Computer Science at [Laney Graduate School](http://www.graduateschool.emory.edu/), [Emory University](http://www.emory.edu/home/index.html).
-Before join Emory, I was a visiting student at [Arizona State University](https://www.asu.edu/), working with Dr. [Yezhou Yang](https://isearch.asu.edu/profile/3020558).  
+I am a first year Ph.D. student in Computer Science at [Laney Graduate School](http://www.graduateschool.emory.edu/), [Emory University](http://www.emory.edu/home/index.html), working with Dr. [Jinho Choi](http://www.mathcs.emory.edu/~choi/home.html).
+Before join Emory, I was a visiting student at [Arizona State University](https://www.asu.edu/), advised by Dr. [Yezhou Yang](https://isearch.asu.edu/profile/3020558).  
 
 My research interests include natural languages processing, vision and language, knowledge graph.
 
