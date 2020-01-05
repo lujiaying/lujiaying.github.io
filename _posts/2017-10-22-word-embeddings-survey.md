@@ -18,11 +18,11 @@ tags:
 
 机器学习模型要求输入是数字，因此自然语言处理问题要转化为机器学习的问题首先需要把自然语言数学符号化。NLP早期最常见的方法是One-hot Representation，这种方法把词转化成一个很长的稀疏向量，向量的维度等于词表大小，在向量中只有一个维度是1，其他都是0。One-hot稀疏表示法简洁，但也导致任意两个词之间都是孤立的。
 
-![Represents of audio, image and text](http://7xkdra.com1.z0.glb.clouddn.com/image/blog/word2vec/audio_image_text.jpg)
+![Represents of audio, image and text](https://lujiaying.github.io/images/posts/DataRepresentation.png)
 
 语音、图像数据可以编码为高维度、稠密的向量，并且编码方式会影响语音、图像任务的性能。基于此，Hinton、Bengio、Milokov等提出了自然语言的Distributed representation，这种表示法可以把词映射到连续实数向量空间，且相似词在该空间中位置相近。有两种常见的途径获得Distributed representation，一种是 count-based方法( Latent Semantic Analysis)，一种是predictive方法（neural probabilistic language models）。简单来说，Count-based方法在大语料集上计算词语的共现统计特征，然后把这些统计特征映射到低维空间成为低维、稠密向量；Predictive方法训练语言模型，直接尝试从学习词向量（是模型的参数）来通过邻居词估计目标词。
 
-![Words in vector space](http://7xkdra.com1.z0.glb.clouddn.com/image/blog/word2vec/vec_space.jpg)
+![Words in vector space](https://lujiaying.github.io/images/posts/word_in_vec_space.jpg)
 
 ## 前世
 
@@ -36,7 +36,6 @@ $$\widehat{P}(w_{1}^{T})= \prod_{t=1}^{T}\widehat{P}(w_{t}|w_{1}^{t-1})$$
 
 计算统计语言模型的句子概率的计算复杂度是$O(N^T)$，N为语料中词的个数(vocabulary size，中文一般是2万～4万)，T为句子长度(一般小于20)。
 
-![Time complexity of N^T](http://7xkdra.com1.z0.glb.clouddn.com/image/blog/word2vec/time_func.jpg)
 
 统计语言模型的计算复杂度太高，在早期实践中采用的是简化版本n-gram语言模型。n-gram模型可直接通过统计词频来计算，计算复杂度 - ，n一般取值2、3、4。n-gram模型的缺点是需要事先保存所有的概率值，工程上还涉及到对稀疏组合平滑化的操作。
 
@@ -54,7 +53,7 @@ $$L(\theta)=\sum_{w\in C}log p(w|Context(w))$$
 
 ### NNLM
 
-![NNLM architecture](http://7xkdra.com1.z0.glb.clouddn.com/image/blog/word2vec/NNLM_struct.jpg)
+![NNLM architecture](https://lujiaying.github.io/images/posts/NNLM.png)
 
 上图是NNLM的网络结构图，输入是target word的context(前n个词在矩阵C中的index，等价于在vocabulary中的index)，输出是一个长度为|V|的向量，其中第i维代表target word为i(i同样是词在vocabulary中的index)在当前context下的条件概率。矩阵C是NNLM的关键部分，论文中原文是：
 
@@ -82,7 +81,7 @@ $$|V|(1 + nm + h) + h(1 + (n - 1)m)=O(N(nm+h))$$
 语义word relationship：$V(Athens)-V(Greece)+V(Norway)=V(Oslo)$  
 语法word relationship：$V(apparent)-V(apparently)+V(rapid)=V(rapidly)$
 
-![Word2vec model architectures](http://7xkdra.com1.z0.glb.clouddn.com/image/blog/word2vec/word2vec_nn_struct.jpg)
+![Word2vec model architectures](https://lujiaying.github.io/images/posts/word2vec_architecture.png)
 
 论文[3]提出了一些方法拓展CBOW和Skip-gram(为主)的词向量质量和训练速度，主要有：subsampling of frequent words；hierarchial softmax、negative sampling。Mikolov还指出Word2Vec的主要缺陷是无法感知语序和无法表达习惯用语(idiomatic phrases，即由若干个单词组成的约定俗成的短语,如 NewYork)，对于idiomatic phrases，文中提出了一种简单的方法使得其词向量可训练(短语作为一个整体去训练)。
 
