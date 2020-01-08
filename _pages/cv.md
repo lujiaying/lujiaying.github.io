@@ -16,8 +16,10 @@ Education
 * M.S. of Electronics and Communication Engineering, BUPT, 2017
 * B.S. of Information Engineering, BUPT, 2014
 
-Work experience
+Experience
 ======
+* 2019.08-Now: Research Assistant & Ph.D. student
+  * Department of Computer Science, Emory University
 * 2018.01-2018.06: NLP Engineer
   * Xiaomi Search Group
 * 2017.04-2017.12: Data Mining Engineer

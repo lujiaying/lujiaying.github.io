@@ -12,4 +12,4 @@ redirect_from:
 Important People
 ======
 - Life Partner: [Wenjing Ma](https://marvinquiet.github.io/). 
-- Friends: [Shixiang Zhu](https://meowoodie.github.io/), [Kaize Ding](https://kaize0409.github.io/).
+- Friends: [Kaize Ding](http://www.public.asu.edu/~kding9/), [Shixiang Zhu](https://meowoodie.github.io/).

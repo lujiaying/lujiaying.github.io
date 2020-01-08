@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Jiaying Lu 卢嘉颖"
 title_separator          : "-"
 name                     : &name "Jiaying Lu"
-description              : &description "Jiaying Lu's personal page - 卢嘉颖的个人主页"
+description              : &description "Jiaying Lu's Personal Page - 卢嘉颖的个人主页"
 url                      : https://lujiaying.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "lujiaying/lujiaying.github.io"
@@ -78,7 +78,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Jiaying Lu - 卢嘉颖"
+  name             : "Jiaying's Biography"
   avatar           : "profile.png"
   bio              : ""
   location         : "Atlanta, GA"

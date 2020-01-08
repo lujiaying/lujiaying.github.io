@@ -55,15 +55,15 @@ $$L(\theta)=\sum_{w\in C}log p(w|Context(w))$$
 
 ![NNLM architecture](https://lujiaying.github.io/images/posts/NNLM.png)
 
-上图是NNLM的网络结构图，输入是target word的context(前n个词在矩阵C中的index，等价于在vocabulary中的index)，输出是一个长度为|V|的向量，其中第i维代表target word为i(i同样是词在vocabulary中的index)在当前context下的条件概率。矩阵C是NNLM的关键部分，论文中原文是：
+上图是NNLM的网络结构图，输入是target word的context(前n个词在矩阵C中的index，等价于在vocabulary中的index)，输出是一个长度为$|V|$的向量，其中第i维代表target word为$i$ ($i$同样是词在vocabulary中的index)在当前context下的条件概率。矩阵$C$是NNLM的关键部分，论文中原文是：
 
-> In practice, C is represented by a |V| * m matrix of free parameters. C being shared across all the words in the context.
+> In practice, $C$ is represented by a $|V|$ * m matrix of free parameters. $C$ being shared across all the words in the context.
 
-实际上，C矩阵存储的就是语料中所有词的词向量，它的行数|V|是语料中词的个数，列数m为词向量的长度。上图g代表的是神经网络的映射(mapping)，由图可知它包括了tanh层和softmax层。NNLM的目标函数为：
+实际上，$C$矩阵存储的就是语料中所有词的词向量，它的行数$|V|$是语料中词的个数，列数m为词向量的长度。上图$g$代表的是神经网络的映射(mapping)，由图可知它包括了tanh层和softmax层。NNLM的目标函数为：
 
 $$\widehat{P}(w_{t}|w_{t-n+1}^{t-1})=\frac{e^{y_{w_{t}}}}{\sum_{i}e^{y_{i}}},\ where\ y=b+Wx+Utanh(d+Hx)$$
  
-其中，b是output层的bias；W是当词向量和output层有直接连接(direct connections)时的weight，对应NNLM网络结构图中的虚线，一般为0；H、d是tanh层(hidden层)的weight、bias；U是tanh层到output层的weight。(注意，隐藏层可以有多个神经元)
+其中，$b$是output层的bias；$W$是当词向量和output层有直接连接(direct connections)时的weight，对应NNLM网络结构图中的虚线，一般为0；$H, d$是tanh层(hidden层)的weight、bias；$U$是tanh层到output层的weight。(注意，隐藏层可以有多个神经元)
 
 损失函数为：$L(\theta)=-\frac{1}{T}\sum_{t}logf(w_{t},w_{t-1},...,w_{t-n+1};\theta)+R(\theta)$， 其中 $R(\theta)$是正则惩罚项。
 
@@ -71,7 +71,7 @@ $$\widehat{P}(w_{t}|w_{t-n+1}^{t-1})=\frac{e^{y_{w_{t}}}}{\sum_{i}e^{y_{i}}},\ w
 
 $$|V|(1 + nm + h) + h(1 + (n - 1)m)=O(N(nm+h))$$
 
-其中，N为语料中词的个数，h为神经网络中隐藏层神经元的个数，n为context window的大小，m为词向量的维度。由此可见，NNLM将模型训练的计算复杂度由$O(N^n)$降低到$O(N*nm)$。论文中提到，在Associated Press 新闻数据集(1400w words)，使用NNLM在40个CPU上训练5个epoch耗时约3周。
+其中，$N$为语料中词的个数，$h$为神经网络中隐藏层神经元的个数，$n$为context window的大小，$m$为词向量的维度。由此可见，NNLM将模型训练的计算复杂度由$O(N^n)$降低到$O(N*nm)$。论文中提到，在Associated Press 新闻数据集(1400w words)，使用NNLM在40个CPU上训练5个epoch耗时约3周。
 
 ## 今生
 
