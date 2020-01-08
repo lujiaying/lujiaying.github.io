@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About"
+title: "About Me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -13,6 +13,7 @@ Before join Emory, I was a visiting student at [Arizona State University](https:
 
 My research interests include natural languages processing, vision and language, knowledge graph.
 
+
 Updates
 ======
 
@@ -20,3 +21,9 @@ Updates
 - August 1, 2018: visited [ASU Active Perception Group(APG)](https://yezhouyang.engineering.asu.edu/), Tempe for summer research, advised by Dr. [Yezhou Yang](https://isearch.asu.edu/profile/3020558).
 - April 12, 2017: joined [Baidu Search Advertising Department](http://e.baidu.com/product/ads-search) as a data mining engineer.
 - March, 2017: graduated from [BUPT](https://www.bupt.edu.cn/), China and got the master degree of communication engineering.
+
+
+Social Media
+======
+
+<a class="twitter-timeline" data-height="800" href="https://twitter.com/LuJiaying_AI?ref_src=twsrc%5Etfw">Tweets by LuJiaying_AI</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
