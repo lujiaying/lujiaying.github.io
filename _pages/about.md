@@ -26,4 +26,4 @@ Updates
 Social Media
 ======
 
-<a class="twitter-timeline" data-height="800" href="https://twitter.com/LuJiaying_AI?ref_src=twsrc%5Etfw">Tweets by LuJiaying_AI</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<a class="twitter-timeline" data-height="600" href="https://twitter.com/LuJiaying_AI?ref_src=twsrc%5Etfw">Tweets by LuJiaying_AI</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>

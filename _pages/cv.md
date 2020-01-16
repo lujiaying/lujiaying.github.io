@@ -43,3 +43,4 @@ Teaching
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+* 2020 Spring: TA for CS170@Emory, Introduction to Computer Science I
