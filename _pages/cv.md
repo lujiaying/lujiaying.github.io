@@ -9,12 +9,14 @@ redirect_from:
 
 {% include base_path %}
 
-[Also available in PDF format](/files/CV_JiayingLu.pdf).
+[Also available in PDF format(Updated on 10/2019)](/files/CV_JiayingLu.pdf).
+
 
 Education
 ======
 * M.S. of Electronics and Communication Engineering, BUPT, 2017
 * B.S. of Information Engineering, BUPT, 2014
+
 
 Experience
 ======
@@ -27,16 +29,18 @@ Experience
 * 2016.10-2017.03: Data Mining Engineer Intern
   * Baidu Search Advertising Department
 
+
 Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
-Projects
+
+Services
 ======
-- [BaizeNLP](https://github.com/lujiaying/BaizeNLP)
-- [MovieTaster](https://github.com/lujiaying/MovieTaster-Open)
+* External Reviewer: ICRA 2019
+
 
 Teaching
 ======
@@ -44,3 +48,8 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 * 2020 Spring: TA for CS170@Emory, Introduction to Computer Science I
+
+Projects
+======
+- [BaizeNLP](https://github.com/lujiaying/BaizeNLP)
+- [MovieTaster](https://github.com/lujiaying/MovieTaster-Open)
