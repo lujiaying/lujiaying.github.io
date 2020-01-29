@@ -23,5 +23,4 @@ Important People
 
 Institutions I stayed
 ======
-![BUPT](https://lujiaying.github.io/images/institutions/BUPT_LOGO.png)
-![Emory](https://lujiaying.github.io/images/institutions/Emory_LOGO.jpg)
+![BUPT](https://lujiaying.github.io/images/institutions/BUPT_LOGO.png)    ![Emory](https://lujiaying.github.io/images/institutions/Emory_LOGO.jpg)
