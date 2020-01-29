@@ -23,5 +23,7 @@ Important People
 
 Institutions I stayed
 ======
-![BUPT](https://lujiaying.github.io/images/institutions/BUPT_LOGO.png)
-![Emory](https://lujiaying.github.io/images/institutions/Emory_LOGO.jpg) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ![Emory NLP](https://lujiaying.github.io/images/institutions/logo-emorynlp.png)
+
+[![BUPT](https://lujiaying.github.io/images/institutions/BUPT_LOGO.png)](https://english.bupt.edu.cn/)
+
+[![Emory](https://lujiaying.github.io/images/institutions/Emory_LOGO.jpg)](http://www.emory.edu/home/index.html) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [![Emory NLP](https://lujiaying.github.io/images/institutions/logo-emorynlp.png)](http://nlp.cs.emory.edu/home.html)
