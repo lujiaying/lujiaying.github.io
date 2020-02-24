@@ -39,7 +39,7 @@ Publications
 
 Services
 ======
-* External Reviewer: ICRA 2019
+* External Reviewer: ICRA 2019, IJCAI 2020
 
 
 Teaching
