@@ -8,15 +8,16 @@ redirect_from:
   - /about.html
 ---
 
-I am a first year Ph.D. student in Computer Science at [Laney Graduate School](http://www.graduateschool.emory.edu/), [Emory University](http://www.emory.edu/home/index.html), working with Dr. [Jinho Choi](http://www.mathcs.emory.edu/~choi/home.html).
+I am a second year Ph.D. student in Computer Science at [Laney Graduate School](http://www.graduateschool.emory.edu/), [Emory University](http://www.emory.edu/home/index.html), working with Dr. [Jinho Choi](http://www.mathcs.emory.edu/~choi/home.html).
 Before join Emory, I was a visiting student at [Arizona State University](https://www.asu.edu/), advised by Dr. [Yezhou Yang](https://isearch.asu.edu/profile/3020558).  
 
-My research interests include natural languages processing, vision and language, knowledge graph.
+My research interests include natural languages processing, knowledge graph, information extraction.
 
 
 Updates
 ======
 
+- May 4, 2020: started KG related research (finally), working with Dr. [Carl J. Yang](http://jiyang3.web.engr.illinois.edu/).
 - August 19, 2019: joined [Emory NLP Lab](http://nlp.cs.emory.edu/home.html), advised by Dr. [Jinho D. Choi](http://www.mathcs.emory.edu/~choi/home.html).
 - August 11, 2019: started my new life as a CS Ph.D. student at [Emory University](http://cs.emory.edu/home/), Atlanta.
 - August 1, 2018: visited [ASU Active Perception Group(APG)](https://yezhouyang.engineering.asu.edu/), Tempe for summer research, advised by Dr. [Yezhou Yang](https://isearch.asu.edu/profile/3020558).
