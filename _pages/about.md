@@ -17,11 +17,11 @@ My research interests include natural languages processing, knowledge graph, inf
 Latest News
 ======
 
-- [May 2020]: conducted KG related research, working with Dr. [Carl J. Yang](http://jiyang3.web.engr.illinois.edu/).
-- [August 2019]: joined [Emory NLP Lab](http://nlp.cs.emory.edu/home.html), advised by Dr. [Jinho D. Choi](http://www.mathcs.emory.edu/~choi/home.html).
-- [August 2019]: started my new life as a CS Ph.D. student at [Emory University](http://cs.emory.edu/home/), Atlanta.
-- [August 2018]: visited [ASU Active Perception Group(APG)](https://yezhouyang.engineering.asu.edu/), Tempe for summer research, advised by Dr. [Yezhou Yang](https://isearch.asu.edu/profile/3020558).
-- [April 2017]: joined [Baidu Search Advertising Department](http://e.baidu.com/product/ads-search) as a data mining engineer.
+- \[May 2020\]: conducted KG related research, working with Dr. [Carl J. Yang](http://jiyang3.web.engr.illinois.edu/).
+- \[August 2019\]: joined [Emory NLP Lab](http://nlp.cs.emory.edu/home.html), advised by Dr. [Jinho D. Choi](http://www.mathcs.emory.edu/~choi/home.html).
+- \[August 2019\]: started my new life as a CS Ph.D. student at [Emory University](http://cs.emory.edu/home/), Atlanta.
+- \[August 2018\]: visited [ASU Active Perception Group(APG)](https://yezhouyang.engineering.asu.edu/), Tempe for summer research, advised by Dr. [Yezhou Yang](https://isearch.asu.edu/profile/3020558).
+- \[April 2017\]: joined [Baidu Search Advertising Department](http://e.baidu.com/product/ads-search) as a data mining engineer.
 
 
 Social Media
