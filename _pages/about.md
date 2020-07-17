@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 I am a second year Ph.D. student in Computer Science at [Laney Graduate School](http://www.graduateschool.emory.edu/), [Emory University](http://www.emory.edu/home/index.html), working with Dr. [Jinho Choi](http://www.mathcs.emory.edu/~choi/home.html) and Dr. [Carl Yang](http://jiyang3.web.engr.illinois.edu/).
-Prior to joining Emory, I was a visiting student at [Arizona State University](https://www.asu.edu/), advised by Dr. [Yezhou Yang](https://isearch.asu.edu/profile/3020558). Before that, I receieved my bachloer and master degrees from BUPT and worked in in dustry for several years.
+Prior to joining Emory, I was a visiting student at [Arizona State University](https://www.asu.edu/), advised by Dr. [Yezhou Yang](https://isearch.asu.edu/profile/3020558). Before that, I receieved my bachloer and master degrees from BUPT and worked in industry for several years.
 
 My research interests include natural languages processing, knowledge graph, information extraction.
 
