@@ -18,7 +18,7 @@ Important People
 ======
 - Life Partner: [Wenjing Ma](https://marvinquiet.github.io/). 
 - Advisors:  [Dr. Yezhou Yang](https://yezhouyang.engineering.asu.edu/), [Dr. Jinho D. Choi](http://www.mathcs.emory.edu/~choi/home.html), [Dr. Carl J. Yang](http://jiyang3.web.engr.illinois.edu/).
-- Friends: [Kaize Ding](http://www.public.asu.edu/~kding9/).
+- Friends: [Kaize Ding](http://www.public.asu.edu/~kding9/), [Shuai Li](https://derkbreeze.github.io/).
 
 
 Institutions I stayed
