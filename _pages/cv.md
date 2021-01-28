@@ -47,9 +47,10 @@ Teaching
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-* 2020 Spring: TA for CS170@Emory, Introduction to Computer Science I
+* 2020 Spring: TA for CS170@Emory, [Introduction to Computer Science I](https://www.coursicle.com/emory/courses/CS/170/)
+* 2020 Fall: TA for CS253@Emory, [Data Structure and Algorithms](https://emory.gitbook.io/dsa-java/)
+* 2021 Spring: TA for CS570@Emory, [Data Mining](http://www.mathcs.emory.edu/~lxiong/cs570/)
 
 Projects
 ======
-- [BaizeNLP](https://github.com/lujiaying/BaizeNLP)
 - [MovieTaster](https://github.com/lujiaying/MovieTaster-Open)
