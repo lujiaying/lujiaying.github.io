@@ -15,6 +15,5 @@ author_profile: false
   {% include archive-single.html %}
 {% endfor %}
 
-2019
-======
-- ["Good, Better, Best: Textual Distractors Generation for Multi-Choice VQA via Policy Gradient"](https://arxiv.org/abs/1910.09134). Jiaying Lu, Xin Ye, Yi Ren and Yezhou Yang. Technical Report 1910.09134, arXiv, 2019.
+; mantained by BibBase
+<script src="https://bibbase.org/show?bib=https%3A%2F%2Flujiaying.github.io%2Ffiles%2Fmypubs.bib&commas=true&jsonp=1"></script>
