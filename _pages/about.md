@@ -25,3 +25,7 @@ Latest News
 - \[April 2017\]: joined [Baidu Search Advertising Department](http://e.baidu.com/product/ads-search) as a data mining engineer.
 
 
+Publications
+======
+<!-- Mantained by BibBase -->
+<script src="https://bibbase.org/show?bib=https%3A%2F%2Flujiaying.github.io%2Ffiles%2Fmypubs.bib&commas=true&jsonp=1"></script>
