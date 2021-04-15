@@ -17,7 +17,7 @@ My research interests include natural languages processing, knowledge graph, inf
 Latest News
 ======
 
-- \[Mar 2021\]: my work with [Dr. Jinho Choi](http://www.mathcs.emory.edu/~choi/home.html) has been accepted by [FLAIRS-34](https://www.flairs-34.info/).
+- \[Mar 2021\]: my work on [entity&event salience estimation](https://arxiv.org/abs/2104.06924) with [Dr. Jinho Choi](http://www.mathcs.emory.edu/~choi/home.html) has been accepted by [FLAIRS-34](https://www.flairs-34.info/).
 - \[May 2020\]: conducted Graph Mining projects, working with Dr. [Carl J. Yang](http://jiyang3.web.engr.illinois.edu/).
 - \[August 2019\]: joined [Emory NLP Lab](http://nlp.cs.emory.edu/home.html), advised by Dr. [Jinho D. Choi](http://www.mathcs.emory.edu/~choi/home.html).
 - \[August 2019\]: started my new life as a CS Ph.D. student at [Emory University](http://cs.emory.edu/home/), Atlanta.
