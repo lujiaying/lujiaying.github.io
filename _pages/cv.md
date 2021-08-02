@@ -38,7 +38,8 @@ Publications
 
 Services
 ======
-* External Reviewer: ICRA'19, IJCAI'20, BigData'21, CIKM'21, IMLH'21.
+* Program Committee: [IMLH'21](https://sites.google.com/view/imlh2021/program-committee), [CAVMD'21](https://sites.google.com/view/cvamd2021/program-committee).
+* External Reviewer: ICRA'19, IJCAI'20, BigData'21, CIKM'21.
 
 
 Teaching
