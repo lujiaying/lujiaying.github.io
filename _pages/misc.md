@@ -20,6 +20,15 @@ Important People
 - Advisors:  [Dr. Yezhou Yang](https://yezhouyang.engineering.asu.edu/), [Dr. Jinho D. Choi](http://www.mathcs.emory.edu/~choi/home.html), [Dr. Carl J. Yang](http://jiyang3.web.engr.illinois.edu/).
 - Friends: [Kaize Ding](http://www.public.asu.edu/~kding9/), [Shuai Li](https://derkbreeze.github.io/).
 
+Pets
+=====
+
+![小龙虾](https://lujiaying.github.io/images/pets/xiaolongxia.JPG)
+小龙虾(Xiao Long Xia), 3/28/2017 - 2/13/2019.
+
+![水煮鱼](https://lujiaying.github.io/images/pets/xiaoyu.JPG)
+水煮鱼(Shui Zhu Yu, aka Yu), 7/4/2021 - now.
+
 
 Institutions I stayed
 ======
