@@ -23,10 +23,10 @@ Important People
 Pets
 =====
 
-![小龙虾](https://lujiaying.github.io/images/pets/xiaolongxia.JPG)
+![小龙虾](https://lujiaying.github.io/images/pets/xiaolongxia.JPG)    
 小龙虾(Xiao Long Xia), 3/28/2017 - 2/13/2019.
 
-![水煮鱼](https://lujiaying.github.io/images/pets/xiaoyu.JPG)
+![水煮鱼](https://lujiaying.github.io/images/pets/xiaoyu.JPG)    
 水煮鱼(Shui Zhu Yu, aka Yu), 7/4/2021 - now.
 
 
