@@ -9,18 +9,20 @@ redirect_from:
 
 {% include base_path %}
 
-[Also available in PDF format(Updated on 10/2019)](/files/CV_JiayingLu.pdf).
+[Also available in PDF format(Updated on 10/2021)](/files/CV_JiayingLu.pdf).
 
 
 Education
 ======
-* M.S. of Electronics and Communication Engineering, BUPT, 2017
-* B.S. of Information Engineering, BUPT, 2014
+* Ph.D. student in Computer Science, [Emory University](https://www.cs.emory.edu/home/), 2019-present.
+* M.S. in Electronics and Communication Engineering, [BUPT](https://english.bupt.edu.cn/), 2017.
+* B.S. in Information Engineering, BUPT, 2014.
 
 
 Experience
 ======
 * 2019.08-Now: Research Assistant & Ph.D. student
+  * Thesis Advisor: Dr. [Carl Yang](http://www.cs.emory.edu/~jyang71/)
   * Department of Computer Science, Emory University
 * 2018.01-2018.06: NLP Engineer
   * Xiaomi Search Group
@@ -38,8 +40,9 @@ Publications
 
 Services
 ======
-* Program Committee: [IMLH'21](https://sites.google.com/view/imlh2021/program-committee), [CAVMD'21](https://sites.google.com/view/cvamd2021/program-committee).
-* External Reviewer: ICRA'19, IJCAI'20, BigData'21, CIKM'21.
+* Program Committee: ICML-[IMLH'21](https://sites.google.com/view/imlh2021/program-committee), ICCV-[CAVMD'21](https://sites.google.com/view/cvamd2021/program-committee).
+* External Reviewer: ICRA'19, IJCAI'20, BigData Journal'21, CIKM'21.
+* Conference Organizing: KDD'22 [Web Developer](https://kdd.org/kdd2022/organizers.html).
 
 
 Teaching
