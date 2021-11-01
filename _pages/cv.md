@@ -35,7 +35,7 @@ Experience
 Publications
 ======
 <!-- Mantained by BibBase -->
-<script src="https://bibbase.org/show?bib=https%3A%2F%2Flujiaying.github.io%2Ffiles%2Fmypubs.bib&commas=true&jsonp=1"></script>
+<script src="https://bibbase.org/show?bib=https%3A%2F%2Fraw.githubusercontent.com%2Flujiaying%2Flujiaying.github.io%2Fmaster%2Ffiles%2Fmypubs.bib&theme=side&commas=false&fullnames=1&jsonp=1"></script>
 
 
 Services
