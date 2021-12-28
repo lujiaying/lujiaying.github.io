@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[Also available in PDF format(Updated on 10/2021)](/files/CV_JiayingLu.pdf).
+[Also available in PDF format(Updated on 12/2021)](/files/CV_JiayingLu.pdf).
 
 
 Education
@@ -41,8 +41,8 @@ Publications
 Services
 ======
 * Program Committee: ICML-[IMLH'21](https://sites.google.com/view/imlh2021/program-committee), ICCV-[CAVMD'21](https://sites.google.com/view/cvamd2021/program-committee).
-* External Reviewer: ICRA'19, IJCAI'20, BigData Journal'21, CIKM'21.
 * Conference Organizing: KDD'22 [Web Developer](https://kdd.org/kdd2022/organizers.html).
+* Peer Review: ICRA'19, IJCAI'20, BigData Journal'21, CIKM'21, TKDE'21.
 
 
 Teaching
