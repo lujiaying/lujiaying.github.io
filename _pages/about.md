@@ -17,12 +17,13 @@ My research interests include graph mining, knowledge graph, natural languages p
 Latest News
 ======
 
+- \[May 2022\]: I will be joining Amazon focusing on automatic machine learning problems, working with Dr. [Andrew Borthwick](https://www.linkedin.com/in/borthwickandrew/), and [AutoGluon](https://auto.gluon.ai/) Team.
 - \[Mar 2021\]: my work on [entity&event salience estimation](https://arxiv.org/abs/2104.06924) with [Dr. Jinho Choi](http://www.mathcs.emory.edu/~choi/home.html) has been accepted by [FLAIRS-34](https://www.flairs-34.info/).
 - \[May 2020\]: conducted Graph Mining projects, working with Dr. [Carl J. Yang](http://jiyang3.web.engr.illinois.edu/).
-- \[August 2019\]: joined [Emory NLP Lab](http://nlp.cs.emory.edu/home.html), advised by Dr. [Jinho D. Choi](http://www.mathcs.emory.edu/~choi/home.html).
-- \[August 2019\]: started my new life as a CS Ph.D. student at [Emory University](http://cs.emory.edu/home/), Atlanta.
-- \[August 2018\]: visited [ASU Active Perception Group(APG)](https://yezhouyang.engineering.asu.edu/), Tempe for summer research, advised by Dr. [Yezhou Yang](https://isearch.asu.edu/profile/3020558).
-- \[April 2017\]: joined [Baidu Search Advertising Department](http://e.baidu.com/product/ads-search) as a data mining engineer.
+- \[August 2019\]: I joined [Emory NLP Lab](http://nlp.cs.emory.edu/home.html), advised by Dr. [Jinho D. Choi](http://www.mathcs.emory.edu/~choi/home.html).
+- \[August 2019\]: I started my new life as a CS Ph.D. student at [Emory University](http://cs.emory.edu/home/), Atlanta.
+- \[August 2018\]: I visited [ASU Active Perception Group(APG)](https://yezhouyang.engineering.asu.edu/), Tempe for summer research, advised by Dr. [Yezhou Yang](https://isearch.asu.edu/profile/3020558).
+- \[April 2017\]: I joined [Baidu Search Advertising Department](http://e.baidu.com/product/ads-search) as a data mining engineer.
 
 
 Publications
