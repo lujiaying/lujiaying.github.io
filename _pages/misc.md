@@ -22,7 +22,7 @@ Important People
 
 Hobbies
 =====
-![ATL Marathon 2022](https://lujiaying.github.io/images/Hobbies/ATL_marathon_2022.png)
+![ATL Marathon 2022](https://lujiaying.github.io/images/Hobbies/ATL_marathon_2022.png)    
 Atlanta Half Marathon 2022.
 
 Pets
