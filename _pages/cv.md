@@ -21,6 +21,8 @@ Education
 
 Experience
 ======
+* 2022.05-2022.08: Applied Scientist Intern
+  * Amazom.com
 * 2019.08-Now: Research Assistant & Ph.D. student
   * Thesis Advisor: Dr. [Carl Yang](http://www.cs.emory.edu/~jyang71/)
   * Department of Computer Science, Emory University
@@ -53,7 +55,3 @@ Teaching
 * 2020 Spring: TA for CS170@Emory, [Introduction to Computer Science I](https://www.coursicle.com/emory/courses/CS/170/)
 * 2020 Fall: TA for CS253@Emory, [Data Structure and Algorithms](https://emory.gitbook.io/dsa-java/)
 * 2021 Spring: TA for CS570@Emory, [Data Mining](http://www.mathcs.emory.edu/~lxiong/cs570/)
-
-Projects
-======
-- [MovieTaster](https://github.com/lujiaying/MovieTaster-Open)
