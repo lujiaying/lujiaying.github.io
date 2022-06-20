@@ -17,14 +17,15 @@ My research interests include graph mining, knowledge graph, natural languages p
 Latest News
 ======
 
-- \[May 2022\]: I will be joining Amazon focusing on automatic machine learning problems ([AutoGluon](https://auto.gluon.ai/) to be precise) this summer, working with Dr. [Andrew Borthwick](https://www.linkedin.com/in/borthwickandrew/) and [Nick Erikson](https://www.linkedin.com/in/nickericksoncs).
+- \[Aug 2022\]: I will present my work on open-world TaxoKG at [OKN @ KDD 2022](https://aiisc.ai/KGKDD2022/), Washington DC.
+- \[May 2022\]: started my internship at Amazon, Sunnyvale this summer. I would focus on automatic machine learning problems ([AutoGluon](https://auto.gluon.ai/) to be precise), working with Dr. [Andrew Borthwick](https://www.linkedin.com/in/borthwickandrew/) and [Nick Erikson](https://www.linkedin.com/in/nickericksoncs).
 - \[Apr 2022\]: my work on [Distractor Generation](https://openaccess.thecvf.com/content/CVPR2022W/ODRUM/papers/Lu_Good_Better_Best_Textual_Distractors_Generation_for_Multiple-Choice_Visual_Question_CVPRW_2022_paper.pdf) for VQA has been accepted by [O-DRUM @ CVPR 2022](https://asu-apg.github.io/odrum/).
 - \[Mar 2021\]: my work on [entity&event salience estimation](https://journals.flvc.org/FLAIRS/article/view/128482) with [Dr. Jinho Choi](http://www.mathcs.emory.edu/~choi/home.html) has been accepted by [FLAIRS-34](https://www.flairs-34.info/).
 - \[May 2020\]: I started conducting Graph Mining projects, working with Dr. [Carl J. Yang](http://jiyang3.web.engr.illinois.edu/).
-- \[August 2019\]: I joined [Emory NLP Lab](http://nlp.cs.emory.edu/home.html), advised by Dr. [Jinho D. Choi](http://www.mathcs.emory.edu/~choi/home.html).
-- \[August 2019\]: I started my new life as a CS Ph.D. student at [Emory University](http://cs.emory.edu/home/), Atlanta.
-- \[August 2018\]: I visited [ASU Active Perception Group(APG)](https://yezhouyang.engineering.asu.edu/), Tempe for summer research, advised by Dr. [Yezhou Yang](https://isearch.asu.edu/profile/3020558).
-- \[April 2017\]: I joined [Baidu Search Advertising Department](http://e.baidu.com/product/ads-search) as a data mining engineer.
+- \[August 2019\]: joined [Emory NLP Lab](http://nlp.cs.emory.edu/home.html), advised by Dr. [Jinho D. Choi](http://www.mathcs.emory.edu/~choi/home.html).
+- \[August 2019\]: started my new life as a CS Ph.D. student at [Emory University](http://cs.emory.edu/home/), Atlanta.
+- \[August 2018\]: visited [ASU Active Perception Group(APG)](https://yezhouyang.engineering.asu.edu/), Tempe for summer research, advised by Dr. [Yezhou Yang](https://isearch.asu.edu/profile/3020558).
+- \[April 2017\]: joined [Baidu Search Advertising Department](http://e.baidu.com/product/ads-search) as a data mining engineer.
 
 
 Publications
