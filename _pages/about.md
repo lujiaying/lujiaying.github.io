@@ -17,7 +17,7 @@ My research interests include graph mining, knowledge graph, natural languages p
 Latest News
 ======
 
-- \[Aug 2022\]: I will present my work on open-world TaxoKG at [OKN @ KDD 2022](https://aiisc.ai/KGKDD2022/), Washington DC.
+- \[Aug 2022\]: I will present my work on open-world TaxoKG at [OKN @ KDD 2022](https://aiisc.ai/KGKDD2022/), Washington DC. Moreover, I'm honored to receive the KDD'22 Student Travel Award.
 - \[May 2022\]: started my internship at Amazon, Sunnyvale this summer. I would focus on automatic machine learning problems ([AutoGluon](https://auto.gluon.ai/) to be precise), working with Dr. [Andrew Borthwick](https://www.linkedin.com/in/borthwickandrew/) and [Nick Erikson](https://www.linkedin.com/in/nickericksoncs).
 - \[Apr 2022\]: my work on [Distractor Generation](https://openaccess.thecvf.com/content/CVPR2022W/ODRUM/papers/Lu_Good_Better_Best_Textual_Distractors_Generation_for_Multiple-Choice_Visual_Question_CVPRW_2022_paper.pdf) for VQA has been accepted by [O-DRUM @ CVPR 2022](https://asu-apg.github.io/odrum/).
 - \[Mar 2021\]: my work on [entity&event salience estimation](https://journals.flvc.org/FLAIRS/article/view/128482) with [Dr. Jinho Choi](http://www.mathcs.emory.edu/~choi/home.html) has been accepted by [FLAIRS-34](https://www.flairs-34.info/).
