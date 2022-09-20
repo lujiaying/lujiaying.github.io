@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[Also available in PDF format(Updated on Apr, 2022)](/files/CV_JiayingLu.pdf).
+[Also available in PDF format(Updated on Sep, 2022)](/files/CV_JiayingLu.pdf).
 
 
 Education
