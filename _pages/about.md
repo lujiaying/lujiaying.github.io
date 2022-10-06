@@ -17,7 +17,7 @@ My research interests include graph mining, knowledge graph, natural languages p
 Latest News
 ======
 
-- \[Sep 2022\]: one paper on "open-world taxonomy and KG co-learning" with [Dr. Carl Yang](http://www.cs.emory.edu/~jyang71/) has been accepted by [AKBC 2022](https://www.akbc.ws/2022/).
+- \[Sep 2022\]: one paper on "[open-world taxonomy and KG co-learning](https://www.akbc.ws/2022/papers/11_open_world_taxonomy_and_knowle)" with [Dr. Carl Yang](http://www.cs.emory.edu/~jyang71/) has been accepted by [AKBC 2022](https://www.akbc.ws/2022/).
 - \[Aug 2022\]: present my work at [OKN @ KDD 2022](https://aiisc.ai/KGKDD2022/), Washington DC. Moreover, I'm honored to receive the KDD'22 Student Travel Award.
 - \[May 2022\]: start my internship at Amazon, Sunnyvale this summer. I would focus on automatic machine learning problems ([AutoGluon](https://auto.gluon.ai/) to be precise), working with [Dr. Andrew Borthwick](https://www.linkedin.com/in/borthwickandrew/) and [Nick Erikson](https://www.linkedin.com/in/nickericksoncs).
 - \[Apr 2022\]: one paper on [Distractor Generation](https://openaccess.thecvf.com/content/CVPR2022W/ODRUM/papers/Lu_Good_Better_Best_Textual_Distractors_Generation_for_Multiple-Choice_Visual_Question_CVPRW_2022_paper.pdf) for VQA has been accepted by [O-DRUM @ CVPR 2022](https://asu-apg.github.io/odrum/).
