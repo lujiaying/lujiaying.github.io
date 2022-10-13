@@ -41,7 +41,8 @@ Publications
 
 Honors
 ======
-* KDD'22 Student Travel Award.
+* CIKM'22 Virtual Registration Award.
+* SIGKDD'22 Student Travel Award.
 
 
 Services
