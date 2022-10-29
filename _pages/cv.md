@@ -21,11 +21,11 @@ Education
 
 Experience
 ======
-* 2022.05-2022.08: Applied Scientist Intern
-  * Amazom.com
 * 2019.08-Now: Research Assistant & Ph.D. student
   * Thesis Advisor: Dr. [Carl Yang](http://www.cs.emory.edu/~jyang71/)
   * Department of Computer Science, Emory University
+* 2022.05-2022.08: Applied Scientist Intern
+  * Amazom.com
 * 2018.01-2018.06: NLP Engineer
   * Xiaomi Search Group
 * 2017.04-2017.12: Data Mining Engineer
@@ -49,7 +49,7 @@ Services
 ======
 * Program Committee: ICML-[IMLH'21](https://sites.google.com/view/imlh2021/program-committee), ICCV-[CAVMD'21](https://sites.google.com/view/cvamd2021/program-committee).
 * Conference Organizing: KDD'22 [Web Developer](https://kdd.org/kdd2022/organizers.html).
-* Peer Review: ICRA'19, IJCAI'20, BigData Journal'21, CIKM'21, TKDE'21, KDD'22.
+* Peer Review: ICRA'19, IJCAI'20, BigData Journal'21, CIKM'21, TKDE'21, KDD'22, AAAI'23, ICRA'23.
 
 
 Teaching
