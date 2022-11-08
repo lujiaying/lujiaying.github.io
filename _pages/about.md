@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a third year Ph.D. student in Computer Science at [Laney Graduate School](http://www.graduateschool.emory.edu/), [Emory University](http://www.emory.edu/home/index.html), working with Dr. [Carl Yang](http://www.cs.emory.edu/~jyang71/) in Emory Graph Mining Lab. I have also been working closely with Dr. [Jinho Choi](http://www.mathcs.emory.edu/~choi/home.html) in Emory NLP Lab.  
+I am a fourth year Ph.D. student in Computer Science at [Laney Graduate School](http://www.graduateschool.emory.edu/), [Emory University](http://www.emory.edu/home/index.html), working with Dr. [Carl Yang](http://www.cs.emory.edu/~jyang71/) in Emory Graph Mining Lab. I have also been working closely with Dr. [Jinho Choi](http://www.mathcs.emory.edu/~choi/home.html) in Emory NLP Lab.  
 Prior to joining Emory, I was a visiting student at [Arizona State University](https://www.asu.edu/), advised by Dr. [Yezhou Yang](https://isearch.asu.edu/profile/3020558). Before that, I receieved my bachloer and master degrees from BUPT and worked in industry for several years.
 
 My research interests include graph mining, knowledge graph, natural languages processing.
@@ -19,7 +19,7 @@ Latest News
 
 - \[Sep 2022\]: one paper on "[open-world taxonomy and KG co-learning](https://www.akbc.ws/2022/papers/11_open_world_taxonomy_and_knowle)" with [Dr. Carl Yang](http://www.cs.emory.edu/~jyang71/) has been accepted by [AKBC 2022](https://www.akbc.ws/2022/).
 - \[Aug 2022\]: present my work at [OKN @ KDD 2022](https://aiisc.ai/KGKDD2022/), Washington DC. Moreover, I'm honored to receive the KDD'22 Student Travel Award.
-- \[May 2022\]: start my internship at Amazon, Sunnyvale this summer. I would focus on automatic machine learning problems ([AutoGluon](https://auto.gluon.ai/) to be precise), working with [Dr. Andrew Borthwick](https://www.linkedin.com/in/borthwickandrew/) and [Nick Erikson](https://www.linkedin.com/in/nickericksoncs).
+- \[May 2022\]: start my internship at Amazon, Sunnyvale this summer. 
 - \[Apr 2022\]: one paper on [Distractor Generation](https://openaccess.thecvf.com/content/CVPR2022W/ODRUM/papers/Lu_Good_Better_Best_Textual_Distractors_Generation_for_Multiple-Choice_Visual_Question_CVPRW_2022_paper.pdf) for VQA has been accepted by [O-DRUM @ CVPR 2022](https://asu-apg.github.io/odrum/).
 - \[Mar 2021\]: one paper on [entity&event salience estimation](https://journals.flvc.org/FLAIRS/article/view/128482) with [Dr. Jinho Choi](http://www.mathcs.emory.edu/~choi/home.html) has been accepted by [FLAIRS-34](https://www.flairs-34.info/).
 - \[August 2019\]: start my new life as a CS Ph.D. student at [Emory University](http://cs.emory.edu/home/), Atlanta.
