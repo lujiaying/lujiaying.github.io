@@ -11,7 +11,7 @@ redirect_from:
 I am a fourth year Ph.D. student in Computer Science at [Laney Graduate School](http://www.graduateschool.emory.edu/), [Emory University](http://www.emory.edu/home/index.html), working with Dr. [Carl Yang](http://www.cs.emory.edu/~jyang71/) in Emory Graph Mining Lab. I have also been working closely with Dr. [Jinho Choi](http://www.mathcs.emory.edu/~choi/home.html) in Emory NLP Lab.  
 Prior to joining Emory, I was a visiting student at [Arizona State University](https://www.asu.edu/), advised by Dr. [Yezhou Yang](https://isearch.asu.edu/profile/3020558). Before that, I receieved my bachloer and master degrees from BUPT and worked in industry for several years.
 
-My research interests include graph mining, knowledge graph, natural languages processing.
+My research interests include graph mining, knowledge graph, multimodal learning, natural languages processing.
 
 
 Latest News
