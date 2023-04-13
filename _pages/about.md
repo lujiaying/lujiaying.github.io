@@ -17,6 +17,7 @@ My research interests include graph mining, knowledge graph, multimodal learning
 Latest News
 ======
 
+- \[June 2023\]: I will participate in the Doctoral Symposium of [CHIL'23](https://www.chilconference.org/) at Cambridge, MA.
 - \[May 2023\]: I will start my internship at [Mineral](https://mineral.ai/), Mountain View, CA this summer. The focus would be Agriculture KG development.
 - \[Spring 2023\]: Several papers get accepted in the warm spring😸 Two of them are my first-author papers-- [GT-D2G](https://doi.org/10.1109/tkde.2023.3252588) (concept map generation) by [IEEE TKDE](https://www.computer.org/csdl/journal/tk), and HiPrompt (biomedical knowledge fusion) by [SIGIR'23](https://sigir.org/sigir2023). Others are joint works with my amazing collaborators--  [closed-book QG](https://arxiv.org/abs/2210.06781) with Xiangjue Dong (question generation) by [EACL](https://2023.eacl.org/), and [Cellcano](https://doi.org/10.1038/s41467-023-37439-3) (cell type identification) with Wenjing Ma by [Nature Communications](https://www.nature.com/ncomms/).  
 - \[Sep 2022\]: one paper on "[Open-World Taxonomy and KG Co-Learning](https://www.akbc.ws/2022/papers/11_open_world_taxonomy_and_knowle)" has been accepted by [AKBC 2022](https://www.akbc.ws/2022/).

@@ -41,15 +41,16 @@ Publications
 
 Honors
 ======
-* CIKM'22 Virtual Registration Award.
-* SIGKDD'22 Student Travel Award.
+* [CHIL'23](https://www.chilconference.org/) Doctoral Symposium Participant.
+* [CIKM'22](https://www.cikm2022.org/) Virtual Registration Award.
+* [SIGKDD'22](https://kdd.org/kdd2022/) Student Travel Award.
 
 
 Services
 ======
 * Program Committee: ICML-[IMLH'21](https://sites.google.com/view/imlh2021/program-committee), ICCV-[CAVMD'21](https://sites.google.com/view/cvamd2021/program-committee).
 * Conference Organizing: KDD'22 [Web Developer](https://kdd.org/kdd2022/organizers.html).
-* Peer Review: ICRA'19, IJCAI'20, BigData Journal'21, CIKM'21, TKDE'21, KDD'22, AAAI'23, ICRA'23.
+* Peer Review: ICRA'19, IJCAI'20, BigData Journal'21, CIKM'21, TKDE'21, KDD'22, AAAI'23, ICRA'23, SIGIR'23.
 
 
 Teaching
