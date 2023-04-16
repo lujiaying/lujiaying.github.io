@@ -20,6 +20,7 @@ tags:
 
 目前决定使用[Marathon Training : Novice 2](https://www.halhigdon.com/training-programs/marathon-training/novice-2-marathon/)来备战首马，希望自己能坚持，不要随意跳进度或偷懒。
 
+### The plan
 
 |Week|Mon|Tue|Wed|Thu|Fri|Sat|Sun|
 |--|--|--|--|--|--|--|--|--|
@@ -43,7 +44,8 @@ tags:
 |18|Rest|4.8 km run|3.2 km run|Rest|Rest|3.2 km run|Marathon|
 
 
-*Week 1* Year 2023
+### *Week 1* (Year 2023)
+
 | Date | Dist. | Time | Pace | Note |
 | -- | -- | -- | -- | -- |
-| 04/17 |
+| 04/17 | | | | |
