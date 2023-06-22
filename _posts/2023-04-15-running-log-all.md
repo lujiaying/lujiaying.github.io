@@ -24,14 +24,14 @@ tags:
 
 |Week|Mon|Tue|Wed|Thu|Fri|Sat|Sun|
 |--|--|--|--|--|--|--|--|--|
-|1|Rest|4.8 km run|8.1 km pace|4.8 km run|Rest|12.9|Cross|
-|2|Rest|4.8 km run|8.1 km run|4.8 km run|Rest|14.5|Cross|
-|3|Rest|4.8 km run|8.1 km pace|4.8 km run|Rest|9.7|Cross|
-|4|Rest|4.8 km run|9.7 km pace|4.8 km run|Rest|17.7|Cross|
-|5|Rest|4.8 km run|9.7 km run|4.8 km run|Rest|19.3|Cross|
-|6|Rest|4.8 km run|9.7 km pace|4.8 km run|Rest|14.5|Cross|
-|7|Rest|6.4 km run|11.3 km pace|6.4 km run|Rest|22.5|Cross|
-|8|Rest|6.4 km run|11.3 km run|6.4 km run|Rest|24.1|Cross|
+|1|Rest|✅4.8 km run|✅8.1 km pace|✅4.8 km run|Rest|✅12.9|✅Cross|
+|2|Rest|✅4.8 km run|✅8.1 km run|✅4.8 km run|Rest|✅14.5|❌Cross|
+|3|Rest|✅4.8 km run|✅8.1 km pace|✅4.8 km run|Rest|✅9.7|❌Cross|
+|4|Rest|✅4.8 km run|✅9.7 km pace|❌4.8 km run|Rest|✅17.7|❌Cross|
+|5|Rest|✅4.8 km run|❌9.7 km run|✅4.8 km run|Rest|✅19.3|✅Cross|
+|6|Rest|✅4.8 km run|✅9.7 km pace|✅4.8 km run|Rest|⏳14.5|✅Cross|
+|7|Rest|✅6.4 km run|❌11.3 km pace|✅6.4 km run|Rest|✅22.5|❌Cross|
+|8|Rest|✅6.4 km run|❌11.3 km run|⏳6.4 km run|Rest|⏳24.1|Cross|
 |9|Rest|6.4 km run|11.3 km pace|6.4 km run|Rest|Rest|Half Marathon|
 |10|Rest|6.4 km run|12.9 km pace|6.4 km run|Rest|27.4|Cross|
 |11|Rest|8.1 km run|12.9 km run|8.1 km run|Rest|29.0|Cross|
@@ -39,10 +39,74 @@ tags:
 |13|Rest|8.1 km run|8.1 km pace|8.1 km run|Rest|30.6|Cross|
 |14|Rest|8.1 km run|12.9 km run|8.1 km run|Rest|19.3|Cross|
 |15|Rest|8.1 km run|8.1 km pace|8.1 km run|Rest|32.2|Cross|
-|1|Rest|8.1 km run|6.4 km pace|8.1 km run|Rest|19.3|Cross|
+|16|Rest|8.1 km run|6.4 km pace|8.1 km run|Rest|19.3|Cross|
 |17|Rest|6.4 km run|4.8 km run|6.4 km run|Rest|12.9|Cross|
 |18|Rest|4.8 km run|3.2 km run|Rest|Rest|3.2 km run|Marathon|
 
+
+### *Week 8*
+
+| Date | Dist. | Time | Pace | Note |
+| -- | -- | -- | -- | -- |
+| 06/06 | 6.55| 46:26 | 7:05| 23⛰️|
+| 06/08 | 4.01| 25:26 | 6:20|  |
+| 06/10 | 21.03| 2:22:07 | 6:46| 81⛰️ |
+
+### *Week 7*
+
+| Date | Dist. | Time | Pace | Note |
+| -- | -- | -- | -- | -- |
+| 05/29 | |  | 31:20| 🤸|
+| 05/30 | 6.4| 41:00| 6:24 | Outdoor + Treadmill |
+| 05/31 | 2.3| 28:46 | 12:30| Treadmill |
+| 06/01 | 6.4| 42:00 | 6:34| Ourdoor + Treadmill |
+| 06/03 | 17.20| 2:17:15 | 7:59| 767⛰️ |
+
+### *Week 6*
+
+| Date | Dist. | Time | Pace | Note |
+| -- | -- | -- | -- | -- |
+| 05/22 | |  | 25:00| 🏋️|
+| 05/23 | 4.81| 36:43| 7:38| 12⛰️ |
+| 05/24 | 9:60| 1:02:59 | 6:33| Treadmill |
+| 05/26 | 4.81| 33:26 | 6:57| Treadmill |
+| 05/27 | 7.55| 57:57 | 7:40| 118⛰️ |
+
+### *Week 5*
+
+| Date | Dist. | Time | Pace | Note |
+| -- | -- | -- | -- | -- |
+| 05/16 | 4.80| 28:42 | 5:59| Treadmill |
+| 05/17 | 4.81| 30:27 | 6:20| Treadmill |
+| 05/20 | 20.01| 2:04:41 | 6:41| 100⛰️ |
+
+### *Week 4*
+
+| Date | Dist. | Time | Pace | Note |
+| -- | -- | -- | -- | -- |
+| 05/09 | 4:82| 31:26 | 6:32| 92⛰️ |
+| 05/10 | 10.08| 59:07 | 5:52| 142⛰️ |
+| 05/13 | 18:01 | 1:57:26 |6:31 |208⛰️ |
+
+### *Week 3*
+
+| Date | Dist. | Time | Pace | Note |
+| -- | -- | -- | -- | -- |
+| 05/02 | 4.8 | 28:53 | 6:01| 94⛰️; 15min strength training|
+| 05/03 | 8.11 | 57:58 | 7:09| 142⛰️|
+| 05/05 | 4.81 | 28:37| 5:57| Treadmill|
+| 05/06 | 10.15| 59:19| 5:51| 116⛰️ |
+
+### *Week 2*
+
+| Date | Dist. | Time | Pace | Note |
+| -- | -- | -- | -- | -- |
+| 04/24 | | 1:55:22 | | 🎾 |
+| 04/25 | 4.96 | 25:43 | 5:11 | 68m ⛰️ |
+| 04/26 | 8.11 | 52:32 | 6:29 | 135 ⛰️ |
+| 04/27 | | | | Schedule changed |
+| 04/28 | 4.81 | 27:21 | 5:41 | Treadmill |
+| 04/29 | 15.01 | 1:36:03 | 6:24 | 113 ⛰️| 
 
 ### *Week 1* (Year 2023)
 
@@ -55,23 +119,3 @@ tags:
 | 04/21 | | 23:13 | | 🏋️ |
 | 04/22 | 13.01 | 1:36:14 | 7:24 | 185 ⛰️| 
 | 04/23 |  | 25:00 |  | 🤸🏻| 
-
-### *Week 2*
-
-| Date | Dist. | Time | Pace | Note |
-| -- | -- | -- | -- | -- |
-| 04/24 | | 1:55:22 | | 🎾 |
-| 04/25 | 4.96 | 25:43 | 5:11 | 68m ⛰️ |
-| 04/26 | 8.11 | 52:32 | 6:29 | 135 ⛰️ |
-| 04/27 | | | | Schedule changed |
-| 04/28 | 4.81 | 27:21 | 5:41 | Treadmil |
-| 04/29 | 15.01 | 1:36:03 | 6:24 | 113 ⛰️| 
-| 04/30 |  |  |  | Rest | 
-
-### *Week 3*
-
-| Date | Dist. | Time | Pace | Note |
-| -- | -- | -- | -- | -- |
-| 05/01 | |  | | Rest |
-| 05/02 | 4.8 | 28:53 | 6:01| 94⛰️; 15min strength training|
-| 05/03 | |  | |  |
