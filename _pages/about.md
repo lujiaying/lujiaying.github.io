@@ -8,17 +8,17 @@ redirect_from:
   - /about.html
 ---
 
-I am a fourth year Ph.D. student in Computer Science at [Laney Graduate School](http://www.graduateschool.emory.edu/), [Emory University](http://www.emory.edu/home/index.html), working with Dr. [Carl Yang](http://www.cs.emory.edu/~jyang71/) in Emory Graph Mining Lab. I have also been working closely with Dr. [Jinho Choi](http://www.mathcs.emory.edu/~choi/home.html) in Emory NLP Lab.  
+I am a final year Ph.D. student in Computer Science at [Laney Graduate School](http://www.graduateschool.emory.edu/), [Emory University](http://www.emory.edu/home/index.html), working with Dr. [Carl Yang](http://www.cs.emory.edu/~jyang71/) in Emory Graph Mining Lab. I have also been working closely with Dr. [Jinho Choi](http://www.mathcs.emory.edu/~choi/home.html) in Emory NLP Lab.  
 Prior to joining Emory, I was a visiting student at [Arizona State University](https://www.asu.edu/), advised by Dr. [Yezhou Yang](https://isearch.asu.edu/profile/3020558). Before that, I receieved my bachelor and master degrees from BUPT and worked in industry for several years.
 
-My research interests include graph mining, knowledge graph, multimodal learning, natural languages processing.
+My research interests include AI for healthcare, large language models, knowledge graph, multimodal learning.
 
 
 Latest News
 ======
 
-- \[June 2023\]: I will participate in the Doctoral Symposium of [CHIL'23](https://www.chilconference.org/) at Cambridge, MA.
-- \[May 2023\]: I will start my internship at [Mineral](https://mineral.ai/), Mountain View, CA this summer. The focus would be Agriculture KG development.
+- \[June 2023\]: present my LLM solution for biomedical knowledge fusion in the Doctoral Symposium of [Conference on Health, Inference, and Learning'2023](https://www.chilconference.org/) at Cambridge, MA.
+- \[May 2023\]: start my internship at [Google X--Mineral](https://mineral.ai/), Mountain View, CA this summer. Please check out our work about building trustworthy multimodal LLMs at [arXiv>>](https://arxiv.org/abs/2309.04041).
 - \[Spring 2023\]: Several papers get accepted in the warm spring😸 Two of them are my first-author papers-- [GT-D2G](https://doi.org/10.1109/tkde.2023.3252588) (concept map generation) by [IEEE TKDE](https://www.computer.org/csdl/journal/tk), and [HiPrompt](https://arxiv.org/abs/2304.05973) (biomedical knowledge fusion) by [SIGIR'23](https://sigir.org/sigir2023). Others are joint works with my amazing collaborators--  [closed-book QG](https://arxiv.org/abs/2210.06781) with Xiangjue Dong (question generation) by [EACL](https://2023.eacl.org/), and [Cellcano](https://doi.org/10.1038/s41467-023-37439-3) (cell type identification) with Wenjing Ma by [Nature Communications](https://www.nature.com/ncomms/).  
 - \[Sep 2022\]: one paper on "[Open-World Taxonomy and KG Co-Learning](https://www.akbc.ws/2022/papers/11_open_world_taxonomy_and_knowle)" has been accepted by [AKBC 2022](https://www.akbc.ws/2022/).
 - \[Aug 2022\]: present my work at [OKN @ KDD 2022](https://aiisc.ai/KGKDD2022/), Washington DC. Moreover, I'm honored to receive the KDD'22 Student Travel Award.
