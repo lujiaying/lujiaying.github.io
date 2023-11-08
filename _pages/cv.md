@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[Download Jiaying's CV (Updated on Oct., 2023)](/files/CV_JiayingLu.pdf).
+[View Jiaying's CV (Updated on Nov., 2023)](/files/CV_JiayingLu.pdf).
 
 
 Academic Backgrounds
