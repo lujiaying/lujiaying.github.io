@@ -28,6 +28,7 @@ Latest News
 
 Students work with me
 ======
+- [2021-2023] [Jacob Choi](https://www.linkedin.com/in/jacob-choi-3b6b421b0/). Undergrad at Emory.
 - [2022-2023] [Yongchen Qian](https://qyccc3.github.io/). Undergrad at Emory; first position: Master of Software Engineering at CMU.
 
 
