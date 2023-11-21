@@ -14,9 +14,9 @@ redirect_from:
 
 Academic Backgrounds
 ======
-* Ph.D. Student in Computer Science, [Emory University](https://www.cs.emory.edu/home/), 2019-present.
-* Visiting Student in [Active Perception Group](https://yezhouyang.engineering.asu.edu/research-group/), Arizona State University, Aug. 2018 - Jan. 2019.
-* B.Sc, M.Eng in Electronics Engineering, [BUPT](https://english.bupt.edu.cn/), 2010-2017.
+* Ph.D. Student in Computer Science, [Emory University](https://www.cs.emory.edu/home/), 2019.09-2024.05 (Expected).
+* Visiting Student in [Active Perception Group](https://yezhouyang.engineering.asu.edu/research-group/), Arizona State University, 2018.08-2019.01.
+* B.Sc, M.Eng in Electronics & Communication Engineering, [BUPT](https://english.bupt.edu.cn/), 2010.09-2017.03.
 
 
 Industry Experiences
