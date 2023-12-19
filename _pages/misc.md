@@ -28,17 +28,26 @@ Hobbies
 
 [all records >>](https://lujiaying.github.io/running_page/)
 
-![ATL Marathon 2022](https://lujiaying.github.io/images/Hobbies/ATL_marathon_2022.png)    
-Atlanta Half Marathon 2022.
+- Helen Holiday Half Trail Marathon. Helen, GA, USA. 2023.
+- San Fracisco Marathon. San Francisco, CA, USA. 2023.
+- Atlanta Half Marathon. Atlanta, GA, USA. 2022, 2023.
+
+**Fishing** 
+
+- Large Mouth Bass. PB: 11.8 inches @ Candler Lake, Atlanta, GA, USA.
+- Black Drum. PB: 18 inches @ Boca Ciega Bay, St. Pete., FL, USA.
 
 Pets
 =====
 
-![小龙虾](https://lujiaying.github.io/images/pets/xiaolongxia.JPG)    
-小龙虾(Xiao Long Xia), 3/28/2017 - 2/13/2019.
+![黄花鱼](https://lujiaying.github.io/images/pets/dahuang.JPG)    
+黄花鱼(Huang Hua Yu, aka Da-Hwang), 3/11/2023 - now.
 
 ![水煮鱼](https://lujiaying.github.io/images/pets/xiaoyu.JPG)    
 水煮鱼(Shui Zhu Yu, aka Yu), 7/4/2021 - now.
+
+![小龙虾](https://lujiaying.github.io/images/pets/xiaolongxia.JPG)    
+小龙虾(Xiao Long Xia), 3/28/2017 - 2/13/2019.
 
 
 Institutions I stayed
