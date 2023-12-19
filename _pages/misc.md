@@ -40,7 +40,7 @@ Hobbies
 Pets
 =====
 
-![黄花鱼](https://lujiaying.github.io/images/pets/dahuang.JPG)    
+![黄花鱼](https://lujiaying.github.io/images/pets/dahuang.jpg)    
 黄花鱼(Huang Hua Yu, aka Da-Hwang), 3/11/2023 - now.
 
 ![水煮鱼](https://lujiaying.github.io/images/pets/xiaoyu.JPG)    
