@@ -34,8 +34,9 @@ Hobbies
 
 **Fishing** 
 
-- Large Mouth Bass. PB: 11.8 inches @ Candler Lake, Atlanta, GA, USA.
-- Black Drum. PB: 18 inches @ Boca Ciega Bay, St. Pete., FL, USA.
+2024 Goal: [Georgia Bass Slam>>](https://georgiawildlife.com/fishing/angler-resources/GeorgiaBassSlam)
+- Large Mouth Bass. PB: 16.5 inches @ Lake Lanier, Buford, GA, USA. 2023.
+- Black Drum. PB: 18 inches @ Boca Ciega Bay, St. Pete., FL, USA. 2023.
 
 Pets
 =====
