@@ -17,6 +17,7 @@ My research interests include AI for healthcare, large language models, knowledg
 Latest News
 ======
 
+- \[Mar 2024\]: our survey on [Domain Speciliazation of LLM](https://arxiv.org/abs/2305.18703) is honorably mentioned by the 2024 Economic Report of the President from the White House ([LinkIn post>>](https://www.linkedin.com/posts/chen-ling-838057a3_exciting-news-were-thrilled-to-share-activity-7176638405202583552-B7PA?utm_source=share&utm_medium=member_desktop))
 - \[Oct 2023\]: our paper on [multimodal learning](https://arxiv.org/abs/2302.02978) has been accepted by [Findings of EMNLP'23](https://2023.emnlp.org/). This is a co-first author paper with Yongchen Qian. Yongchen was a undergrad at Emory and he contributed a lot to this project. It is always my pleasure to work with motivated students.
 - \[June 2023\]: present my LLM solution for biomedical knowledge fusion in the Doctoral Symposium of [Conference on Health, Inference, and Learning'2023](https://www.chilconference.org/) at Cambridge, MA.
 - \[May 2023\]: start my internship at [Google X--Mineral](https://mineral.ai/), Mountain View, CA this summer. Please check out our work about building trustworthy multimodal LLMs at [arXiv>>](https://arxiv.org/abs/2309.04041).
