@@ -7,8 +7,8 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
-I am a final year Ph.D. student in Computer Science at [Laney Graduate School](http://www.graduateschool.emory.edu/), [Emory University](http://www.emory.edu/home/index.html), advised by Dr. [Carl Yang](http://www.cs.emory.edu/~jyang71/) in Emory Graph Mining Lab. I have also been working closely with Dr. [Jinho Choi](http://www.mathcs.emory.edu/~choi/home.html) in syntactic parsing, Dr. [Yuanzhe Xi](https://www.math.emory.edu/~yxi26/) in kernel methods (Gaussian processes).  
+I will be joining the [Nell Hodgson Woodruff School of Nursing](https://www.nursing.emory.edu/)'s [Center for Data Science](https://www.nursing.emory.edu/initiatives/center-for-data-science) at Emory University, as a research-track Assistant Professor in Summer 2024.  
+I received my Ph.D. in Computer Science and Informatics at [Laney Graduate School](http://www.graduateschool.emory.edu/), [Emory University](http://www.emory.edu/home/index.html), advised by Dr. [Carl Yang](http://www.cs.emory.edu/~jyang71/) in Emory Graph Mining Lab. I also worked closely with Dr. [Jinho Choi](http://www.mathcs.emory.edu/~choi/home.html) in syntactic parsing, Dr. [Yuanzhe Xi](https://www.math.emory.edu/~yxi26/) in kernel methods (Gaussian processes).  
 Prior to joining Emory, I was a visiting student at [Arizona State University](https://www.asu.edu/), advised by Dr. [Yezhou Yang](https://isearch.asu.edu/profile/3020558). Before that, I receieved my bachelor and master degrees from BUPT and worked in industry for several years.
 
 My research interests include AI for healthcare, large language models, knowledge graph, multimodal learning.
@@ -17,7 +17,7 @@ My research interests include AI for healthcare, large language models, knowledg
 Latest News
 ======
 
-- \[Mar 2024\]: I'm honored to receive the [MCBIOS Young Scientist Excellence Award](https://2024.mcbios.com/ysea) (3rd-place winner). Thanks the MCBIOS committee!
+- \[Mar 2024\]: I'm honored to receive the [MCBIOS Young Scientist Excellence Award](https://2024.mcbios.com/ysea) (4th-place winner). Thanks the MCBIOS committee!
 - \[Mar 2024\]: our survey on [Domain Speciliazation of LLM](https://arxiv.org/abs/2305.18703) is honorably mentioned by the 2024 Economic Report of the President from the White House ([LinkIn post>>](https://www.linkedin.com/posts/chen-ling-838057a3_exciting-news-were-thrilled-to-share-activity-7176638405202583552-B7PA?utm_source=share&utm_medium=member_desktop))
 - \[Oct 2023\]: our paper on [multimodal learning](https://arxiv.org/abs/2302.02978) has been accepted by [Findings of EMNLP'23](https://2023.emnlp.org/). This is a co-first author paper with Yongchen Qian. Yongchen was a undergrad at Emory and he contributed a lot to this project. It is always my pleasure to work with motivated students.
 - \[June 2023\]: present my LLM solution for biomedical knowledge fusion in the Doctoral Symposium of [Conference on Health, Inference, and Learning'2023](https://www.chilconference.org/) at Cambridge, MA.
@@ -27,7 +27,7 @@ Latest News
 - \[May 2022\]: start my internship at Amazon, Sunnyvale, CA this summer. 
 
 
-Students work with me
+Mentees
 ======
 - [2023-now] [Darren Liu](https://scholar.google.com/citations?user=0pURGncAAAAJ&hl=en). CSI PhD student at Emory.
 - [2021-2023] [Jacob Choi](https://www.linkedin.com/in/jacob-choi-3b6b421b0/). Undergrad at Emory.
