@@ -27,9 +27,8 @@ Latest News
 - \[May 2022\]: start my internship at Amazon, Sunnyvale, CA this summer. 
 
 
-Mentees
+Students Worked with Me
 ======
-- [2023-now] [Darren Liu](https://scholar.google.com/citations?user=0pURGncAAAAJ&hl=en). CSI PhD student at Emory.
 - [2021-2023] [Jacob Choi](https://www.linkedin.com/in/jacob-choi-3b6b421b0/). Undergrad at Emory.
 - [2022-2023] [Yongchen Qian](https://qyccc3.github.io/). Undergrad at Emory; first position: Master of Software Engineering at CMU.
 
