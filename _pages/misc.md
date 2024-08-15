@@ -19,7 +19,7 @@ Important People
 ======
 - Life Partner: [Wenjing Ma](https://marvinquiet.github.io/). 
 - Advisors:  [Dr. Yezhou Yang](https://yezhouyang.engineering.asu.edu/), [Dr. Jinho D. Choi](http://www.mathcs.emory.edu/~choi/home.html), [Dr. Carl J. Yang](http://jiyang3.web.engr.illinois.edu/).
-- Friends: [Kaize Ding](http://www.public.asu.edu/~kding9/), [Shuai Li](https://derkbreeze.github.io/), [Shixiang Zhu](https://sites.google.com/view/woodyzhu), [贺佳玮](http://jayveehe.github.io/about/).
+- Friends: [Shifan Zhao](https://www.linkedin.com/in/shifan-zhao-b35742ba/), [Kaize Ding](http://www.public.asu.edu/~kding9/), [Shuai Li](https://derkbreeze.github.io/), [Shixiang Zhu](https://sites.google.com/view/woodyzhu), [贺佳玮](http://jayveehe.github.io/about/).
 
 Hobbies
 =====
@@ -30,7 +30,7 @@ Hobbies
 
 - Helen Holiday Half Trail Marathon. Helen, GA, USA. 2023.
 - San Fracisco Marathon. San Francisco, CA, USA. 2023.
-- Atlanta Half Marathon. Atlanta, GA, USA. 2022, 2023.
+- Atlanta Half Marathon. Atlanta, GA, USA. 2022, 2023, 2024(full).
 
 **Fishing** 
 
