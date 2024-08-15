@@ -23,16 +23,14 @@ Latest News
 - \[June 2023\]: present my LLM solution for biomedical knowledge fusion in the Doctoral Symposium of [Conference on Health, Inference, and Learning'2023](https://www.chilconference.org/) at Cambridge, MA.
 - \[May 2023\]: start my internship at [Google X--Mineral](https://mineral.ai/), Mountain View, CA this summer. Please check out our work about building trustworthy multimodal LLMs at [arXiv>>](https://arxiv.org/abs/2309.04041).
 - \[Spring 2023\]: several papers get accepted in the warm spring😸 Two of them are my first-author papers-- [GT-D2G](https://doi.org/10.1109/tkde.2023.3252588) (concept map generation) by [IEEE TKDE](https://www.computer.org/csdl/journal/tk), and [HiPrompt](https://arxiv.org/abs/2304.05973) (biomedical knowledge fusion) by [SIGIR'23](https://sigir.org/sigir2023). Others are joint works with my amazing collaborators--  [closed-book QG](https://arxiv.org/abs/2210.06781) with Xiangjue Dong (question generation) by [EACL](https://2023.eacl.org/), and [Cellcano](https://doi.org/10.1038/s41467-023-37439-3) (cell type identification) with Wenjing Ma by [Nature Communications](https://www.nature.com/ncomms/).  
-- \[Aug 2022\]: present my work at [OKN @ KDD 2022](https://aiisc.ai/KGKDD2022/), Washington DC. Moreover, I'm honored to receive the KDD'22 Student Travel Award.
-- \[May 2022\]: start my internship at Amazon, Sunnyvale, CA this summer. 
 
 
 Students Worked with Me
 ======
 - [2024-now] Simon Liu. Undergrad at Emory.
+- [2024-now] Katie Shao. Undergrad at Emory.
 - [2022-2023] [Yongchen Qian](https://qyccc3.github.io/). Undergrad at Emory; first position: M.S. of Software Engineering at CMU.
 - [2021-2023] [Jacob Choi](https://www.linkedin.com/in/jacob-choi-3b6b421b0/). Undergrad at Emory; first position: M.S. of Computer Science at USC.
-
 
 
 Publications
