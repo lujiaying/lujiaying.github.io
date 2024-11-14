@@ -17,6 +17,7 @@ My research interests include AI for healthcare, large language models, knowledg
 Latest News
 ======
 
+- \[Nov 2024\]: Many thanks to [Atlanta Interdisciplinary Artificial Intelligence Network](https://www.aiai.network/) for funding our AI.humanity project "Understanding Generative AI’s Impact to Users from Various Religious Background" under the Seed Grants program.
 - \[Mar 2024\]: I'm honored to receive the [MCBIOS Young Scientist Excellence Award](https://2024.mcbios.com/ysea) (4th-place winner). Thanks the MCBIOS committee!
 - \[Mar 2024\]: our survey on [Domain Speciliazation of LLM](https://arxiv.org/abs/2305.18703) is honorably mentioned by the 2024 Economic Report of the President from the White House ([LinkIn post>>](https://www.linkedin.com/posts/chen-ling-838057a3_exciting-news-were-thrilled-to-share-activity-7176638405202583552-B7PA?utm_source=share&utm_medium=member_desktop))
 - \[Oct 2023\]: our paper on [multimodal learning](https://arxiv.org/abs/2302.02978) has been accepted by [Findings of EMNLP'23](https://2023.emnlp.org/). This is a co-first author paper with Yongchen Qian. Yongchen was a undergrad at Emory and he contributed a lot to this project. It is always my pleasure to work with motivated students.

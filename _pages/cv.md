@@ -22,12 +22,10 @@ Academic Appointments
 ======
 * 2024.06-Now: Research-Track Assistant Professor, [Center for Data Science](https://www.nursing.emory.edu/initiatives/center-for-data-science), Nell Hodgson Woodruff School of Nursing, Emory University.
 
-Industry Experiences
+Selected Honors
 ======
-* 2023.05-2023.09: Research Intern, Google X
-* 2022.05-2022.08: Applied Scientist Intern, Amazom.com
-* 2018.01-2018.06: NLP Engineer, Xiaomi Search Group
-* 2017.04-2017.12: NLP Engineer, Baidu Search Advertising Department
+* [2025] AIAI Network Seed Grant.
+* [2024] MCBIOS Young Scientist Excellence Award.
 
 
 Publications
