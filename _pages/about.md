@@ -11,7 +11,8 @@ I am a research-track Assistant Professor of Nursing Data Science since 2024, af
 I received my Ph.D. in Computer Science and Informatics at [Laney Graduate School](http://www.graduateschool.emory.edu/), [Emory University](http://www.emory.edu/home/index.html), advised by Dr. [Carl Yang](http://www.cs.emory.edu/~jyang71/) in Emory Graph Mining Lab. I also worked closely with Dr. [Jinho Choi](http://www.mathcs.emory.edu/~choi/home.html) in syntactic parsing, Dr. [Yuanzhe Xi](https://www.math.emory.edu/~yxi26/) in kernel methods (Gaussian processes), Dr. [Xiao Hu](https://www.nursing.emory.edu/faculty-staff/xiao-hu) in physiological foundation model.  
 Prior to joining Emory, I was a visiting student at [Arizona State University](https://www.asu.edu/), advised by Dr. [Yezhou Yang](https://isearch.asu.edu/profile/3020558). Before that, I receieved my bachelor and master degrees from BUPT and worked in industry for several years.
 
-My research interests include AI for healthcare, large language models, knowledge graph, multimodal learning.
+My research interests include AI for healthcare, large language models, knowledge graph, multimodal learning.  
+[**Openings**] I'm looking for motivated students/interns for research projects. Undergraduate students are encouraged to reach out.
 
 
 Latest News
@@ -29,7 +30,7 @@ Latest News
 Students Worked with Me
 ======
 - [2024-now] Simon Liu. Undergrad at Emory.
-- [2024-now] Katie Shao. Undergrad at Emory.
+- [2024-now] [Katie Shao](https://www.linkedin.com/in/mingchen-shao-30309a246/). Undergrad at Emory.
 - [2024-now] Tung Dinh. Honors Undergrad at Emory (Thesis committee).
 - [2022-2023] [Yongchen Qian](https://qyccc3.github.io/). Undergrad at Emory; first position: M.S. of Software Engineering at CMU.
 - [2021-2023] [Jacob Choi](https://www.linkedin.com/in/jacob-choi-3b6b421b0/). Undergrad at Emory; first position: M.S. of Computer Science at USC.
