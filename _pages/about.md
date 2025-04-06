@@ -28,8 +28,10 @@ Latest News
 
 Students Worked with Me
 ======
+- [2024-2025] [Shuyue Jiang](https://www.linkedin.com/in/shuyue-jiang-ada/). Master in Data Science at Emory.
 - [2024-now] [Victor Li](https://www.linkedin.com/in/victor-li-85b56027b/). Undergrad at Emory.
-- [2024-now] [Katie Shao](https://www.linkedin.com/in/mingchen-shao-30309a246/). Undergrad at Emory.
+- [2024-2025] [Katie Shao](https://www.linkedin.com/in/mingchen-shao-30309a246/). Undergrad at Emory.
+- [2024-2025] [Tung Dinh] Honors Undergrad at Emory (Thesis committee).
 - [2024-2025] [Simon Liu](https://github.com/liuximeng2). Honors Undergrad at Emory (Thesis committee).
 - [2022-2023] [Yongchen Qian](https://qyccc3.github.io/). Undergrad at Emory; first position: M.S. of Software Engineering at CMU.
 - [2021-2023] [Jacob Choi](https://www.linkedin.com/in/jacob-choi-3b6b421b0/). Undergrad at Emory; first position: M.S. of Computer Science at USC.
