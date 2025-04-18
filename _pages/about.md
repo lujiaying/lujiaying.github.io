@@ -17,6 +17,7 @@ My research interests include AI for healthcare, large language models, knowledg
 
 Latest News
 ======
+- \[Apr 2025]: Two papers get accepted by [EMBC'25](https://embc.embs.org/2025/) for foundation model based cardiac arrest risk prediction.
 - \[Mar 2025]: Three papers get accepted by [MedInfo'25](https://medinfo2025.org/). Congratulations to my RA, Katie Shao, for kicking off our exploration on LLM-based phenotype extraction from clinical narratives, and her first first-authored paper.
 - \[Feb 2025]: Several abstracts on AI in healthcare are accepted by [Critical Care Congress](https://www.sccm.org/annual-congress/abstracts-and-case-reports) for critical care population, [Gerontological Society of America Annual Meeting](https://gsa2024.eventscribe.net/) for aging population. Many thanks to our interdisciplinary research team.
 - \[Nov 2024\]: Many thanks to [Atlanta Interdisciplinary Artificial Intelligence Network](https://www.aiai.network/) for funding our AI.humanity project "Understanding Generative AI’s Impact to Users from Various Religious Background" under the Seed Grants program.
@@ -28,10 +29,11 @@ Latest News
 
 Students Worked with Me
 ======
+- [2024-now] Jonanthan Wang. Undergrad at Emory.
 - [2024-2025] [Shuyue Jiang](https://www.linkedin.com/in/shuyue-jiang-ada/). Master in Data Science at Emory.
 - [2024-now] [Victor Li](https://www.linkedin.com/in/victor-li-85b56027b/). Undergrad at Emory.
 - [2024-2025] [Katie Shao](https://www.linkedin.com/in/mingchen-shao-30309a246/). Undergrad at Emory.
-- [2024-2025] [Tung Dinh] Honors Undergrad at Emory (Thesis committee).
+- [2024-2025] [Tung Dinh](https://www.linkedin.com/in/tung-dinh-50b3961b0) Honors Undergrad at Emory (Thesis committee).
 - [2024-2025] [Simon Liu](https://github.com/liuximeng2). Honors Undergrad at Emory (Thesis committee).
 - [2022-2023] [Yongchen Qian](https://qyccc3.github.io/). Undergrad at Emory; first position: M.S. of Software Engineering at CMU.
 - [2021-2023] [Jacob Choi](https://www.linkedin.com/in/jacob-choi-3b6b421b0/). Undergrad at Emory; first position: M.S. of Computer Science at USC.
