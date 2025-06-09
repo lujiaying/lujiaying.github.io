@@ -16,10 +16,11 @@ My research interests include AI for healthcare, large language models, knowledg
 
 Latest News
 ======
+- \[Jun 2025]: Two papers and two posters get accepted by [AMIA'25](https://amia.org/education-events/amia-2025-annual-symposium). Seey'all at ATL this November.
 - \[Apr 2025]: Two papers get accepted by [EMBC'25](https://embc.embs.org/2025/) for foundation model based cardiac arrest risk prediction.
 - \[Mar 2025]: Three papers get accepted by [MedInfo'25](https://medinfo2025.org/). Congratulations to my RA, Katie Shao, for kicking off our exploration on LLM-based phenotype extraction from clinical narratives, and her first first-authored paper.
 - \[Feb 2025]: Several abstracts on AI in healthcare are accepted by [Critical Care Congress](https://www.sccm.org/annual-congress/abstracts-and-case-reports) for critical care population, [Gerontological Society of America Annual Meeting](https://gsa2024.eventscribe.net/) for aging population. Many thanks to our interdisciplinary research team.
-- \[Nov 2024\]: Many thanks to [Atlanta Interdisciplinary Artificial Intelligence Network](https://www.aiai.network/) for funding our AI.humanity project "Understanding Generative AI’s Impact to Users from Various Religious Background" under the Seed Grants program.
+- \[Nov 2024\]: Many thanks to [Atlanta Interdisciplinary Artificial Intelligence Network](https://www.aiai.network/) for funding our AI.humanity project "Understanding Generative AI’s Impact to Users from Various Religious Background" under the Seed Grants program. \[Jun 2025\]: our pilot study has been accepted by [KDD'25 SciSocLLM Workshop](https://kdd25scisocllm.github.io/).
 - \[Mar 2024\]: I'm honored to receive the [MCBIOS Young Scientist Excellence Award](https://2024.mcbios.com/ysea) (4th-place winner). Thanks the MCBIOS committee!
 - \[Mar 2024\]: our survey on [Domain Speciliazation of LLM](https://arxiv.org/abs/2305.18703) is honorably mentioned by the 2024 Economic Report of the President from the White House ([LinkIn post>>](https://www.linkedin.com/posts/chen-ling-838057a3_exciting-news-were-thrilled-to-share-activity-7176638405202583552-B7PA?utm_source=share&utm_medium=member_desktop))
 - \[Oct 2023\]: our paper on [multimodal learning](https://arxiv.org/abs/2302.02978) has been accepted by [Findings of EMNLP'23](https://2023.emnlp.org/). This is a co-first author paper with Yongchen Qian. Yongchen was a undergrad at Emory and he contributed a lot to this project. It is always my pleasure to work with motivated students.
