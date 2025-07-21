@@ -16,7 +16,7 @@ My research interests include AI for healthcare, large language models, knowledg
 
 Latest News
 ======
-- \[Jun 2025]: Two papers and two posters get accepted by [AMIA'25](https://amia.org/education-events/amia-2025-annual-symposium). Seey'all at ATL this November.
+- \[Jun 2025]: Two papers and two posters get accepted by [AMIA'25](https://amia.org/education-events/amia-2025-annual-symposium). See y'all at ATL this November.
 - \[Apr 2025]: Two papers get accepted by [EMBC'25](https://embc.embs.org/2025/) for foundation model based cardiac arrest risk prediction.
 - \[Mar 2025]: Three papers get accepted by [MedInfo'25](https://medinfo2025.org/). Congratulations to my RA, Katie Shao, for kicking off our exploration on LLM-based phenotype extraction from clinical narratives, and her first first-authored paper.
 - \[Feb 2025]: Several abstracts on AI in healthcare are accepted by [Critical Care Congress](https://www.sccm.org/annual-congress/abstracts-and-case-reports) for critical care population, [Gerontological Society of America Annual Meeting](https://gsa2024.eventscribe.net/) for aging population. Many thanks to our interdisciplinary research team.

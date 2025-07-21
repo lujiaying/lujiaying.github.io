@@ -20,3 +20,7 @@ You can also find my publications on <u><a href="{{author.googlescholar}}">my Go
 
 <!-- Mantained by BibBase -->
 <script src="https://bibbase.org/show?bib=https%3A%2F%2Fraw.githubusercontent.com%2Flujiaying%2Flujiaying.github.io%2Fmaster%2Ffiles%2Fmypubs.bib&commas=false&fullnames=1&jsonp=1"></script>
+
+## Selected Posters
+- Shuyue Jiang, Wenjing Ma, Runze Yan, Chang Su, and **Jiaying Lu**. Chronological age prediction based on dna methylation and clinical features. AMIA 2025 Annual Symposium, (2025).
+- Shifan Zhao, Chen Yue, Jiexin Zheng, and **Jiaying Lu**. Privacy-preserving synthetic data generation with large language models for enhanced discourse-based adrd assessmen. AMIA 2025 Annual Symposum, (2025).
