@@ -29,6 +29,8 @@ Latest News
 
 Students Worked with Me
 ======
+- [2025-now] Jason Li. Undergrad at Emory.
+- [2024-now] Jasmine Zhou. Undergrad at Emory.
 - [2024-now] Jonathan Wang. Undergrad at Emory.
 - [2024-2025] [Shuyue Jiang](https://www.linkedin.com/in/shuyue-jiang-ada/). M.S. of Data Science at Emory.
 - [2024-now] [Victor Li](https://www.linkedin.com/in/victor-li-85b56027b/). Undergrad at Emory.
