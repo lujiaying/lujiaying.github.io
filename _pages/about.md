@@ -10,12 +10,13 @@ redirect_from:
 I am a research-track Assistant Professor of Nursing Data Science since 2024, affiliated with the [Nell Hodgson Woodruff School of Nursing](https://www.nursing.emory.edu/)'s [Center for Data Science](https://www.nursing.emory.edu/initiatives/center-for-data-science) at Emory University.  
 I received my Ph.D. in Computer Science and Informatics at [Laney Graduate School](http://www.graduateschool.emory.edu/), [Emory University](http://www.emory.edu/home/index.html), advised by Dr. [Carl Yang](http://www.cs.emory.edu/~jyang71/) in Emory Graph Mining Lab.   
 
-My research interests include AI for healthcare, large language models, knowledge graph, multimodal learning.  
+My research interests include Multimodal Biomedical AI, Large Language Models and Ontology & Knowledge Graph.  
 [**Openings**] I'm looking for motivated students/interns for research projects. Undergraduate/Master/PhD students are encouraged to reach out.
 
 
 Latest News
 ======
+- \[Jun 2025]: Two papers get accepted by [BIBM'25](https://biod.whu.edu.cn/bibm2025/), representing our exploration on applied machine learning for omics data. One milestone for the first student-lead regular (aka full-length) peer-reviewed conference paper from my lab.
 - \[Jun 2025]: Two papers and two posters get accepted by [AMIA'25](https://amia.org/education-events/amia-2025-annual-symposium). See y'all at ATL this November.
 - \[Apr 2025]: Two papers get accepted by [EMBC'25](https://embc.embs.org/2025/) for foundation model based cardiac arrest risk prediction.
 - \[Mar 2025]: Three papers get accepted by [MedInfo'25](https://medinfo2025.org/). Congratulations to my RA, Katie Shao, for kicking off our exploration on LLM-based phenotype extraction from clinical narratives, and her first first-authored paper.
