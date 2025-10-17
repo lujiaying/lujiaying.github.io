@@ -16,7 +16,7 @@ My research interests include Multimodal Biomedical AI, Large Language Models an
 
 Latest News
 ======
-- \[Jun 2025]: Two papers get accepted by [BIBM'25](https://biod.whu.edu.cn/bibm2025/), representing our exploration on applied machine learning for omics data. One milestone for the first student-lead regular (aka full-length) peer-reviewed conference paper from my lab.
+- \[Oct 2025]: Two papers get accepted by [BIBM'25](https://biod.whu.edu.cn/bibm2025/), representing our exploration on applied machine learning for omics data. One milestone for the first student-lead regular (aka full-length) peer-reviewed conference paper from my lab.
 - \[Jun 2025]: Two papers and two posters get accepted by [AMIA'25](https://amia.org/education-events/amia-2025-annual-symposium). See y'all at ATL this November.
 - \[Apr 2025]: Two papers get accepted by [EMBC'25](https://embc.embs.org/2025/) for foundation model based cardiac arrest risk prediction.
 - \[Mar 2025]: Three papers get accepted by [MedInfo'25](https://medinfo2025.org/). Congratulations to my RA, Katie Shao, for kicking off our exploration on LLM-based phenotype extraction from clinical narratives, and her first first-authored paper.
