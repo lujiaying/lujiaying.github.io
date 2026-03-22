@@ -15,6 +15,11 @@ Softwares
 - [Cellcano](https://marvinquiet.github.io/Cellcano/)
 - [MuG](https://github.com/lujiaying/MUG-Bench)
 
+Tips
+======
+Below are productivity tips and tricks for research I've accumulated. The main purpose is to share some useful tips to my students, as well as serving as notes for myself.
+- [Write The Manuscript On LaTeX/Overleaf](https://lujiaying.github.io/tips-write_manuscript/)
+
 
 Hobbies
 =====
