@@ -29,16 +29,17 @@ Latest News
 
 Students Worked with Me
 ======
-- [2025-now] Jason Li. Undergrad at Emory.
-- [2024-now] Jasmine Zhou. Undergrad at Emory.
-- [2024-now] Jonathan Wang. Undergrad at Emory.
+- [2025-2026] [Siyu Zhai](https://www.linkedin.com/in/siyu-liv-zhai-4001222a9/). Emory Rollins Applied Practice Experience M.S. of BioStats student.
+- [2025-now] Jason Li. QTM Undergrad at Emory.
+- [2024-now] [Jasmine Zhou](https://scholar.google.com/citations?user=xq7WkOMAAAAJ). CS & Bio Undergrad at Emory.
+- [2024-now] [Jonathan Wang](https://www.linkedin.com/in/jonathan-wang-53976a287/). CS Undergrad at Emory.
 - [2024-2025] [Shuyue Jiang](https://www.linkedin.com/in/shuyue-jiang-ada/). M.S. of Data Science at Emory.
-- [2024-now] [Victor Li](https://www.linkedin.com/in/victor-li-85b56027b/). Undergrad at Emory.
-- [2024-2025] [Katie Shao](https://www.linkedin.com/in/mingchen-shao-30309a246/). Undergrad at Emory; first position: M.S. of Computer Science at Northwestern.
-- [2024-2025] [Tung Dinh](https://www.linkedin.com/in/tung-dinh-50b3961b0) Honors Undergrad at Emory (Thesis committee); first position: M.S. at CMU.
-- [2024-2025] [Simon Liu](https://github.com/liuximeng2). Honors Undergrad at Emory (Thesis committee); first position: M.S. of Computational Data Science at CMU.
-- [2022-2023] [Yongchen Qian](https://qyccc3.github.io/). Undergrad at Emory; first position: M.S. of Software Engineering at CMU.
-- [2021-2023] [Jacob Choi](https://www.linkedin.com/in/jacob-choi-3b6b421b0/). Undergrad at Emory; first position: M.S. of Computer Science at USC.
+- [2024-now] [Victor Li](https://www.linkedin.com/in/victor-li-85b56027b/). CS Undergrad at Emory.
+- [2024-2025] [Katie Shao](https://www.linkedin.com/in/mingchen-shao-30309a246/). QTM Undergrad at Emory; first position: M.S. of Computer Science at Northwestern.
+- [2024-2025] [Tung Dinh](https://www.linkedin.com/in/tung-dinh-50b3961b0) CS Honors Undergrad at Emory (Thesis committee); first position: M.S. at CMU.
+- [2024-2025] [Simon Liu](https://github.com/liuximeng2). CS Honors Undergrad at Emory (Thesis committee); first position: M.S. of Computational Data Science at CMU.
+- [2022-2023] [Yongchen Qian](https://qyccc3.github.io/). CS Undergrad at Emory; first position: M.S. of Software Engineering at CMU.
+- [2021-2023] [Jacob Choi](https://www.linkedin.com/in/jacob-choi-3b6b421b0/). CS Undergrad at Emory; first position: M.S. of Computer Science at USC.
 
 
 Publications

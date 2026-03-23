@@ -34,3 +34,12 @@ I recommend to use [Overleaf](https://www.overleaf.com/) to save time for LaTeX 
 - Do not worry about the quality of writing at the beginning. The most important thing is to get the main ideas down on paper, and then refine the writing later.
 - Begin with the `Study Design`, `Methods` and `Experiments` sections, which are typically more straightforward to write. Then move on to the `Introduction` and `Conclusion`, which often require more creativity and polish.
 - Write each paragraph's punch line for the `Introduction` to convey the main message. This will be helpful when discussing with co-authors.
+
+## Sharing Data and Code
+- Use https://anonymous.4open.science/ to host the codebase for anonymous sharing during the peer review process.
+- Use [Figshare](https://figshare.com/) or [Zenodo](https://zenodo.org/) to host the data for anonymous sharing during the peer review process. After acceptance, you can update the dataset with the final version and make it public.
+
+## Draw Figures
+- I use MS-PPT to draw Figure1, motivaition examples, and flowcharts.
+- I use LaTeX's native `tikz` and `pgfplots` package to draw model architecture and results figures (e.g., bar plots, line plots, heatmaps). It is a hard learning curve at beginning. But it can keep the raw experimental results and the manuscript in the same LaTeX file, which is very convenient for revision and journal submission. It also ensures the consistency of fonts and styles between figures and text.
+  - Recently I also used Python's `matplotlib` and `seaborn` to draw some figures.
