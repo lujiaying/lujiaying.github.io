@@ -42,7 +42,12 @@ Students Worked with Me
 - [2021-2023] [Jacob Choi](https://www.linkedin.com/in/jacob-choi-3b6b421b0/). CS Undergrad at Emory; first position: M.S. of Computer Science at USC.
 
 
-Publications
+Selected Publications
 ======
-<!-- Mantained by BibBase -->
-<script src="https://bibbase.org/show?bib=https%3A%2F%2Fraw.githubusercontent.com%2Flujiaying%2Flujiaying.github.io%2Fmaster%2Ffiles%2Fmypubs.bib&theme=side&commas=false&fullnames=1&jsonp=1"></script>
+- **Jiaying Lu**, Xiangjue Dong, and Carl Yang. Weakly supervised concept map generation through task-guided graph translation. *IEEE Transactions on Knowledge and Data Engineering*, 35(10): 10871–10883, March 2023. doi: [10.1109/TKDE.2023.325258](https://doi.org/10.1109/TKDE.2023.3252588)
+- Wenjing Ma, **Jiaying Lu**, and Hao Wu. Cellcano: supervised cell type identification for single cell atac-seq data. *Nature Communications*, 14(1):1864, April 2023. ISSN 2041-1723. doi: [10.1038/s41467-023-37439-3](https://doi.org/10.1038/s41467-023-37439-3)
+- **Jiaying Lu**, Jiaming Shen, Bo Xiong, Wenjing Ma, Steffen Staab, and Carl Yang. Hiprompt: Few-shotbiomedical knowledge fusion via hierarchy-oriented prompting. In *Proceedings of the 46th International ACM SIGIR Conference on Research and Development in Information Retrieval* (SIGIR’23), page 2052–2056, New York, NY, USA, 2023. Association for Computing Machinery. ISBN 9781450394086. doi: [10.1145/3539618.3591997](https://doi.org/10.1145/3539618.3591997)
+- **Jiaying Lu**, Shifan Zhao, Wenjing Ma, Hui Shao, Xiao Hu, Yuanzhe Xi, and Carl Yang. Uncertainty-aware pre-trained foundation models for patient risk prediction via gaussian process. In *Companion Proceedings of the ACM Web Conference 2024* (WWW’24), page 1162–1165, New York, NY, USA, 2024. Association for Computing Machinery. ISBN 9798400701726. doi: [10.1145/3589335.3651456](https://dl.acm.org/doi/10.1145/3589335.3651456)
+- Shuyue Jiang, Wenjing Ma, Shaojun Yu, Chang Su, Runze Yan, and **Jiaying Lu**✉. Integrating epigenetic and phenotypic features for biological age estimation in cancer patients via multimodal learning. In *Proceedings of The 19th IEEE International Conference on Bioinformatics and Biomedicine* (BIBM’25), 2025. doi: [10.1109/bibm66473.2025.11356564](https://dl.acm.org/doi/10.1109/bibm66473.2025.11356564)
+
+<!-- <script src="https://bibbase.org/show?bib=https%3A%2F%2Fraw.githubusercontent.com%2Flujiaying%2Flujiaying.github.io%2Fmaster%2Ffiles%2Fmypubs.bib&theme=side&commas=false&fullnames=1&jsonp=1"></script> -->
