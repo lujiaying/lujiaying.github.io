@@ -11,35 +11,29 @@ I am a research-track Assistant Professor of Nursing Data Science since 2024, af
 I received my Ph.D. in Computer Science and Informatics at [Laney Graduate School](http://www.graduateschool.emory.edu/), [Emory University](http://www.emory.edu/home/index.html), advised by Dr. [Carl Yang](http://www.cs.emory.edu/~jyang71/) in Emory Graph Mining Lab.   
 
 My research interests include Multimodal Biomedical AI, Large Language Models and Ontology & Knowledge Graph.  
-[**Openings**] I'm looking for motivated students/interns for research projects. Undergraduate/Master/PhD students are encouraged to reach out.
 
 
 Latest News
 ======
 - \[Dec 2025]: I'm honored to receive the 2025-26 [RISE Pilot Grant](https://www.nursing.emory.edu/pages/rise-pilot-grant-program) in Children's Environmental Health from NIEHS [CHARTER](https://www.nursing.emory.edu/initiatives/charter).
 - \[Oct 2025]: Two papers get accepted by [BIBM'25](https://biod.whu.edu.cn/bibm2025/), representing our exploration on applied machine learning for omics data. One milestone for the first student-lead regular (aka full-length) peer-reviewed conference paper from my lab.
-- \[Apr 2025]: Two papers get accepted by [EMBC'25](https://embc.embs.org/2025/) for foundation model based cardiac arrest risk prediction.
-- \[Mar 2025]: Three papers get accepted by [MedInfo'25](https://medinfo2025.org/). Congratulations to my RA, Katie Shao, for kicking off our exploration on LLM-based phenotype extraction from clinical narratives, and her first first-authored paper.
 - \[Nov 2024\]: Many thanks to [Atlanta Interdisciplinary Artificial Intelligence Network](https://www.aiai.network/) for funding our AI.humanity project "Understanding Generative AI’s Impact to Users from Various Religious Background" under the Seed Grants program. \[Jun 2025\]: our pilot study has been accepted by [KDD'25 SciSocLLM Workshop](https://kdd25scisocllm.github.io/).
 - \[Mar 2024\]: I'm honored to receive the [MCBIOS Young Scientist Excellence Award](https://2024.mcbios.com/ysea) (4th-place winner). Thanks the MCBIOS committee!
-- \[Mar 2024\]: our survey on [Domain Speciliazation of LLM](https://arxiv.org/abs/2305.18703) is honorably mentioned by the 2024 Economic Report of the President from the White House ([LinkIn post>>](https://www.linkedin.com/posts/chen-ling-838057a3_exciting-news-were-thrilled-to-share-activity-7176638405202583552-B7PA?utm_source=share&utm_medium=member_desktop))
-- \[Oct 2023\]: our paper on [multimodal learning](https://arxiv.org/abs/2302.02978) has been accepted by [Findings of EMNLP'23](https://2023.emnlp.org/). This is a co-first author paper with Yongchen Qian. Yongchen was a undergrad at Emory and he contributed a lot to this project. It is always my pleasure to work with motivated students.
-- \[Spring 2023\]: several papers get accepted in the warm spring😸 Two of them are my first-author papers-- [GT-D2G](https://doi.org/10.1109/tkde.2023.3252588) (concept map generation) by [IEEE TKDE](https://www.computer.org/csdl/journal/tk), and [HiPrompt](https://arxiv.org/abs/2304.05973) (biomedical knowledge fusion) by [SIGIR'23](https://sigir.org/sigir2023). Others are joint works with my amazing collaborators-- [closed-book QG](https://arxiv.org/abs/2210.06781) with Xiangjue Dong (question generation) by [EACL](https://2023.eacl.org/), and [Cellcano](https://doi.org/10.1038/s41467-023-37439-3) (cell type identification) with Wenjing Ma by [Nature Communications](https://www.nature.com/ncomms/).  
 
 
 Students Worked with Me
 ======
-- [2025-2026] [Siyu Zhai](https://www.linkedin.com/in/siyu-liv-zhai-4001222a9/). Emory Rollins Applied Practice Experience M.S. of BioStats student.
 - [2025-now] Jason Li. QTM Undergrad at Emory.
 - [2024-now] [Jasmine Zhou](https://scholar.google.com/citations?user=xq7WkOMAAAAJ). CS & Bio Undergrad at Emory.
-- [2024-now] [Jonathan Wang](https://www.linkedin.com/in/jonathan-wang-53976a287/). CS Undergrad at Emory.
-- [2024-2025] [Shuyue Jiang](https://www.linkedin.com/in/shuyue-jiang-ada/). M.S. of Data Science at Emory.
 - [2024-now] [Victor Li](https://www.linkedin.com/in/victor-li-85b56027b/). CS Undergrad at Emory.
+- [2025-2026] [Siyu Zhai](https://www.linkedin.com/in/siyu-liv-zhai-4001222a9/). Emory Rollins Applied Practice Experience M.S. of BioStats student.
+- [2024-2025] [Yuhao Xu](https://yuhaoxu99.github.io/). Visiting CS student at Emory.
+- [2024-2026] [Jonathan Wang](https://www.linkedin.com/in/jonathan-wang-53976a287/). CS Undergrad at Emory; first position: M.S. of Computer Science at UCLA.
+- [2024-2025] [Shuyue Jiang](https://www.linkedin.com/in/shuyue-jiang-ada/). M.S. of Data Science at Emory.
 - [2024-2025] [Katie Shao](https://www.linkedin.com/in/mingchen-shao-30309a246/). QTM Undergrad at Emory; first position: M.S. of Computer Science at Northwestern.
 - [2024-2025] [Tung Dinh](https://www.linkedin.com/in/tung-dinh-50b3961b0) CS Honors Undergrad at Emory (Thesis committee); first position: M.S. at CMU.
 - [2024-2025] [Simon Liu](https://github.com/liuximeng2). CS Honors Undergrad at Emory (Thesis committee); first position: M.S. of Computational Data Science at CMU.
 - [2022-2023] [Yongchen Qian](https://qyccc3.github.io/). CS Undergrad at Emory; first position: M.S. of Software Engineering at CMU.
-- [2021-2023] [Jacob Choi](https://www.linkedin.com/in/jacob-choi-3b6b421b0/). CS Undergrad at Emory; first position: M.S. of Computer Science at USC.
 
 
 Selected Publications
