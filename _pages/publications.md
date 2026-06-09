@@ -32,7 +32,7 @@ You can also find my publications on <u><a href="{{author.googlescholar}}">my Go
     </div>
     <div style="display:none"><span class="bibtexkey"></span></div>
   </div>
-  <div class="bibtex_display" bibtexfiles="files/mypubs.bib"></div>
+  <div class="bibtex_display" bibtexfiles="../files/mypubs.bib"></div>
 
 <!-- Mantained by BibBase -->
 <!--<script src="https://bibbase.org/show?bib=https%3A%2F%2Fraw.githubusercontent.com%2Flujiaying%2Flujiaying.github.io%2Fmaster%2Ffiles%2Fmypubs.bib&commas=false&fullnames=1&jsonp=1"></script> -->
