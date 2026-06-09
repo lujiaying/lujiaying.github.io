@@ -17,23 +17,17 @@ You can also find my publications on <u><a href="{{author.googlescholar}}">my Go
 <p>* indcates co-first author, # indicates co-corresponding author.</p> 
 
 <!-- bibtex-js -->
-<script src="https://cdn.jsdelivr.net/npm/bibtex-js@1.0.5/dist/bibtex-js.min.js"></script>
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bibtex-js@1.0.5/dist/bibtex-js.css">
+<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/pcooksey/bibtex-js@1.0.0/src/bibtex_js.js"></script>
 <bibtex src="../files/mypubs.bib"></bibtex>
 
-  <div class="bibtex_template">
-    <div class="if author" style="font-weight: bold;">
-      <span class="if author"><span class="author"></span>, </span>
-      <span class="if year">(<span class="year"></span>). </span>
-      "<span class="title"></span>".
-      <span class="if journal"><em><span class="journal"></span></em>, </span>
-      <span class="if volume">vol. <span class="volume"></span>, </span>
-      <span class="if pages">pp. <span class="pages"></span>, </span>
-      <span class="if publisher"><span class="publisher"></span>.</span>
-    </div>
-    <div style="display:none"><span class="bibtexkey"></span></div>
-  </div>
-  <div id="bibtex_display"></div>
+<textarea id="bibtex_input" style="display:none;">
+@book{book1,
+  author = "Donald Knuth",
+  title = "Concrete Mathematics"
+}
+</textarea>
+
+<div id="bibtex_display"></div>
 
 <!-- Mantained by BibBase -->
 <!--<script src="https://bibbase.org/show?bib=https%3A%2F%2Fraw.githubusercontent.com%2Flujiaying%2Flujiaying.github.io%2Fmaster%2Ffiles%2Fmypubs.bib&commas=false&fullnames=1&jsonp=1"></script> -->
