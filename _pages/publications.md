@@ -20,86 +20,6 @@ You can also find my publications on <u><a href="{{author.googlescholar}}">my Go
 <script type="text/javascript" src="https://cdn.jsdelivr.net/gh/pcooksey/bibtex-js@1.0.0/src/bibtex_js.js"></script>
 <bibtex src="../files/mypubs.bib"></bibtex>
 
-<style>
-/* ---- Publications List ---- */
-#bibtex_display{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,sans-serif;max-width:800px;margin:0 auto}
-.bibtex_template{display:none!important}
-
-/* year group */
-.pub-year-group{margin-bottom:2.4rem}
-.pub-year-label{font-size:14px;font-weight:500;color:#185FA5;letter-spacing:.04em;
-  padding-bottom:5px;border-bottom:2px solid #378ADD;margin-bottom:14px;display:inline-block;min-width:52px}
-
-/* entry row */
-.pub-entry{display:flex;gap:14px;padding:13px 0;border-bottom:.5px solid rgba(0,0,0,.09);align-items:flex-start}
-.pub-entry:last-child{border-bottom:none}
-
-/* left badge */
-.pub-badge{flex-shrink:0;width:56px;text-align:center;padding-top:3px}
-.pub-badge-inner{font-size:9.5px;font-weight:500;padding:3px 5px;border-radius:4px;
-  display:inline-block;line-height:1.45;letter-spacing:.04em;white-space:nowrap}
-.badge-conf  {background:#E6F1FB;color:#185FA5}
-.badge-jour  {background:#EAF3DE;color:#3B6D11}
-.badge-workshop{background:#EEEDFE;color:#3C3489}
-.badge-preprint{background:#FAEEDA;color:#854F0B}
-
-/* right body */
-.pub-body{flex:1;min-width:0}
-.pub-title{font-size:14.5px;font-weight:500;color:#1a1a1a;line-height:1.42;margin-bottom:4px}
-.pub-authors{font-size:13px;color:#555;margin-bottom:3px;line-height:1.55}
-.pub-authors .me{font-weight:600;color:#1a1a1a;text-decoration:underline;text-underline-offset:2px;text-decoration-color:#378ADD}
-.pub-authors .co-first{font-size:10.5px;vertical-align:super;color:#993C1D;margin-left:1px;line-height:1}
-.pub-authors .co-corresp{font-size:10.5px;vertical-align:super;color:#185FA5;margin-left:1px;line-height:1}
-.pub-venue{font-size:12.5px;color:#444;margin-bottom:8px;line-height:1.4}
-.pub-venue em{color:#185FA5;font-style:normal;font-weight:500}
-
-/* link buttons */
-.pub-links{display:flex;flex-wrap:wrap;gap:5px;align-items:center}
-.pl{font-size:11px;padding:2px 8px;border-radius:4px;border:.5px solid;text-decoration:none;
-  cursor:pointer;background:white;display:inline-flex;align-items:center;transition:background .12s}
-.pl:hover{opacity:.85}
-.pl-pdf  {color:#993C1D;border-color:#D85A30}.pl-pdf:hover {background:#FAECE7}
-.pl-arx  {color:#534AB7;border-color:#7F77DD}.pl-arx:hover {background:#EEEDFE}
-.pl-code {color:#0F6E56;border-color:#1D9E75}.pl-code:hover{background:#E1F5EE}
-.pl-poster{color:#185FA5;border-color:#378ADD}.pl-poster:hover{background:#E6F1FB}
-.pl-doi  {color:#5F5E5A;border-color:#888780}.pl-doi:hover {background:#F1EFE8}
-.pl-bib  {color:#5F5E5A;border-color:#888780;cursor:pointer}.pl-bib:hover{background:#F1EFE8}
-
-/* expandable sections */
-.pub-bib-raw{display:none;margin-top:8px;padding:10px 13px;border-radius:6px;
-  background:#f5f4ef;font-family:"SFMono-Regular",Consolas,"Liberation Mono",Menlo,monospace;
-  font-size:11px;color:#444;white-space:pre-wrap;line-height:1.55;overflow-x:auto}
-.pub-bib-raw.open{display:block}
-</style>
-
-<div id="bibtex_display">
-  <div class="bibtex_template">
-    <div class="pub-entry">
-      <div class="pub-badge">
-        <span class="pub-badge-inner" data-venue-badge></span>
-      </div>
-      <div class="pub-body">
-        <div class="pub-title"><span class="title"></span></div>
-        <div class="pub-authors"><span class="author" data-highlight-author></span></div>
-        <div class="pub-venue">
-          <span class="if booktitle">In <em><span class="booktitle"></span></em>, <span class="year"></span>.</span>
-          <span class="if journal"><em><span class="journal"></span></em>, <span class="year"></span>.</span>
-          <span class="if howpublished"><span class="howpublished"></span>, <span class="year"></span>.</span>
-        </div>
-        <div class="pub-links">
-          <span class="if url_Paper"><a class="bibtexVar pl pl-pdf" href="+url_Paper+" extra="url_Paper" target="_blank">Paper</a></span>
-          <span class="if url_arXiv"><a class="bibtexVar pl pl-arx" href="+url_arXiv+" extra="url_arXiv" target="_blank">arXiv</a></span>
-          <span class="if url_Code"><a class="bibtexVar pl pl-code" href="+url_Code+" extra="url_Code" target="_blank">Code</a></span>
-          <span class="if url_Poster"><a class="bibtexVar pl pl-poster" href="+url_Poster+" extra="url_Poster" target="_blank">Poster</a></span>
-          <span class="if doi"><a class="bibtexVar pl pl-doi" href="https://doi.org/+doi+" extra="doi" target="_blank">DOI</a></span>
-          <a class="pl pl-bib" href="#" onclick="this.closest('.pub-body').querySelector('.pub-bib-raw').classList.toggle('open');return false">BibTeX</a>
-        </div>
-        <div class="pub-bib-raw"><span class="bibtexraw noread"></span></div>
-      </div>
-    </div>
-  </div>
-</div>
-
 <script>
 (function(){
   var MY_NAME = 'Jiaying Lu';
@@ -232,3 +152,112 @@ You can also find my publications on <u><a href="{{author.googlescholar}}">my Go
   }, 200);
 })();
 </script>
+
+<style>
+/* ---- Publications List ---- */
+#bibtex_display{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,sans-serif;max-width:800px;margin:0 auto}
+.bibtex_template{display:none!important}
+
+/* year group */
+.pub-year-group{margin-bottom:2.4rem}
+.pub-year-label{font-size:14px;font-weight:500;color:#185FA5;letter-spacing:.04em;
+  padding-bottom:5px;border-bottom:2px solid #378ADD;margin-bottom:14px;display:inline-block;min-width:52px}
+
+/* entry row */
+.pub-entry{display:flex;gap:14px;padding:13px 0;border-bottom:.5px solid rgba(0,0,0,.09);align-items:flex-start}
+.pub-entry:last-child{border-bottom:none}
+
+/* left badge */
+.pub-badge{flex-shrink:0;width:56px;text-align:center;padding-top:3px}
+.pub-badge-inner{font-size:9.5px;font-weight:500;padding:3px 5px;border-radius:4px;
+  display:inline-block;line-height:1.45;letter-spacing:.04em;white-space:nowrap}
+.badge-conf  {background:#E6F1FB;color:#185FA5}
+.badge-jour  {background:#EAF3DE;color:#3B6D11}
+.badge-workshop{background:#EEEDFE;color:#3C3489}
+.badge-preprint{background:#FAEEDA;color:#854F0B}
+
+/* right body */
+.pub-body{flex:1;min-width:0}
+.pub-title{font-size:14.5px;font-weight:500;color:#1a1a1a;line-height:1.42;margin-bottom:4px}
+.pub-authors{font-size:13px;color:#555;margin-bottom:3px;line-height:1.55}
+.pub-authors .me{font-weight:600;color:#1a1a1a;text-decoration:underline;text-underline-offset:2px;text-decoration-color:#378ADD}
+.pub-authors .co-first{font-size:10.5px;vertical-align:super;color:#993C1D;margin-left:1px;line-height:1}
+.pub-authors .co-corresp{font-size:10.5px;vertical-align:super;color:#185FA5;margin-left:1px;line-height:1}
+.pub-venue{font-size:12.5px;color:#444;margin-bottom:8px;line-height:1.4}
+.pub-venue em{color:#185FA5;font-style:normal;font-weight:500}
+
+/* link buttons */
+.pub-links{display:flex;flex-wrap:wrap;gap:5px;align-items:center}
+.pl{font-size:11px;padding:2px 8px;border-radius:4px;border:.5px solid;text-decoration:none;
+  cursor:pointer;background:white;display:inline-flex;align-items:center;transition:background .12s}
+.pl:hover{opacity:.85}
+.pl-pdf  {color:#993C1D;border-color:#D85A30}.pl-pdf:hover {background:#FAECE7}
+.pl-arx  {color:#534AB7;border-color:#7F77DD}.pl-arx:hover {background:#EEEDFE}
+.pl-code {color:#0F6E56;border-color:#1D9E75}.pl-code:hover{background:#E1F5EE}
+.pl-poster{color:#185FA5;border-color:#378ADD}.pl-poster:hover{background:#E6F1FB}
+.pl-doi  {color:#5F5E5A;border-color:#888780}.pl-doi:hover {background:#F1EFE8}
+.pl-bib  {color:#5F5E5A;border-color:#888780;cursor:pointer}.pl-bib:hover{background:#F1EFE8}
+
+/* expandable sections */
+.pub-bib-raw{display:none;margin-top:8px;padding:10px 13px;border-radius:6px;
+  background:#f5f4ef;font-family:"SFMono-Regular",Consolas,"Liberation Mono",Menlo,monospace;
+  font-size:11px;color:#444;white-space:pre-wrap;line-height:1.55;overflow-x:auto}
+.pub-bib-raw.open{display:block}
+</style>
+
+<div id="bibtex_display">
+  <div class="bibtex_template">
+    <div class="pub-entry">
+      <div class="pub-badge">
+        <span class="pub-badge-inner" data-venue-badge></span>
+      </div>
+      <div class="pub-body">
+        <div class="pub-title"><span class="title"></span></div>
+        <div class="pub-authors"><span class="author" data-highlight-author></span></div>
+        <div class="pub-venue">
+          <span class="if booktitle">In <em><span class="booktitle"></span></em>, <span class="year"></span>.</span>
+          <span class="if journal"><em><span class="journal"></span></em>, <span class="year"></span>.</span>
+          <span class="if howpublished"><span class="howpublished"></span>, <span class="year"></span>.</span>
+        </div>
+        <div class="pub-links">
+          <span class="if url_Paper"><a class="bibtexVar pl pl-pdf" href="+url_Paper+" extra="url_Paper" target="_blank">Paper</a></span>
+          <span class="if url_arXiv"><a class="bibtexVar pl pl-arx" href="+url_arXiv+" extra="url_arXiv" target="_blank">arXiv</a></span>
+          <span class="if url_Code"><a class="bibtexVar pl pl-code" href="+url_Code+" extra="url_Code" target="_blank">Code</a></span>
+          <span class="if url_Poster"><a class="bibtexVar pl pl-poster" href="+url_Poster+" extra="url_Poster" target="_blank">Poster</a></span>
+          <span class="if doi"><a class="bibtexVar pl pl-doi" href="https://doi.org/+doi+" extra="doi" target="_blank">DOI</a></span>
+          <a class="pl pl-bib" href="#" onclick="this.closest('.pub-body').querySelector('.pub-bib-raw').classList.toggle('open');return false">BibTeX</a>
+        </div>
+        <div class="pub-bib-raw"><span class="bibtexraw noread"></span></div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="bibtex_structure">
+  <div class="sections bibtextypekey">
+    <div class="section article">
+      <h1>Journal Articles</h1>
+      <div class="sort year" extra="DESC number">
+        <div class="templates"></div>
+      </div>
+    </div>
+    <div class="section book">
+      <h1>Books</h1>
+      <div class="sort year" extra="DESC number">
+        <div class="templates"></div>
+      </div>
+    </div>
+    <div class="section inproceedings">
+      <h1>Conference and Workshop Papers</h1>
+      <div class="sort year" extra="DESC number">
+        <div class="templates"></div>
+      </div>
+    </div>
+    <div class="section misc|phdthesis|mastersthesis|bachelorsthesis|techreport">
+      <h1>Other Publications</h1>
+      <div class="sort year" extra="DESC number">
+        <div class="templates"></div>
+      </div>
+    </div>
+  </div>
+</div>
