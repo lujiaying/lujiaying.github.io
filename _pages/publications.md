@@ -23,7 +23,6 @@ You can also find my publications on <u><a href="{{author.googlescholar}}">my Go
 
 <style>
 /* ---- Publications List ---- */
-/* ---- Publications List ---- */
 #bibtex_display{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,sans-serif;max-width:800px;margin:0 auto}
 .bibtex_template{display:none!important}
 
@@ -35,14 +34,6 @@ You can also find my publications on <u><a href="{{author.googlescholar}}">my Go
 /* entry row */
 .pub-entry{display:flex;gap:14px;padding:13px 0;border-bottom:.5px solid rgba(0,0,0,.09);align-items:flex-start}
 .pub-entry:last-child{border-bottom:none}
-
-/* left badge — pure bibtex-js template, no JS */
-.pub-badge{flex-shrink:0;width:56px;text-align:center;padding-top:3px}
-.pub-badge-inner{font-size:9.5px;font-weight:500;padding:3px 5px;border-radius:4px;
-  display:inline-block;line-height:1.45;letter-spacing:.04em;white-space:nowrap}
-.badge-conf    {background:#E6F1FB;color:#185FA5}
-.badge-jour    {background:#EAF3DE;color:#3B6D11}
-.badge-preprint{background:#FAEEDA;color:#854F0B}
 
 /* right body */
 .pub-body{flex:1;min-width:0}
@@ -73,12 +64,6 @@ You can also find my publications on <u><a href="{{author.googlescholar}}">my Go
 <div id="bibtex_display">
   <div class="bibtex_template">
     <div class="pub-entry">
-      <div class="pub-badge">
-        <!-- 会议论文 → 蓝色徽章 -->
-        <span class="if booktitle"><span class="pub-badge-inner badge-conf"><span class="series"></span></span></span>
-        <!-- 期刊文章 → 绿色徽章 -->
-        <span class="if journal"><span class="pub-badge-inner badge-jour"><span class="journal"></span></span></span>
-      </div>
       <div class="pub-body">
         <div class="pub-title"><span class="title"></span></div>
         <div class="pub-authors"><span class="author" data-highlight-author></span></div>
