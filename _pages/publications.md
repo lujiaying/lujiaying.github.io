@@ -20,6 +20,10 @@ You can also find my publications on <u><a href="{{author.googlescholar}}">my Go
 <script type="text/javascript" src="https://cdn.jsdelivr.net/gh/pcooksey/bibtex-js@1.0.0/src/bibtex_js.js"></script>
 <bibtex src="../files/mypubs.bib"></bibtex>
 
+<style>
+#bibtex_display span.Jiaying.Lu { font-weight: bold; text-decoration: underline; text-underline-offset: 3px; }
+</style>
+
 <div id="bibtex_display"></div>
 
 <div class="bibtex_template">
