@@ -23,7 +23,7 @@ You can also find my publications on <u><a href="{{author.googlescholar}}">my Go
 <div id="bibtex_display"></div>
 
 <div class="bibtex_template">
-  <div style="margin:0 0 2px 0; font-size:15px;">
+  <div style="margin:0 0 2px 0; font-size:15px; font-weight: bold;">
     <span class="title"></span>
   </div>
   <div style="font-size:13px; color:#555; margin-bottom:2px;">
