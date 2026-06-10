@@ -23,17 +23,22 @@ You can also find my publications on <u><a href="{{author.googlescholar}}">my Go
 <div id="bibtex_display"></div>
 
 <div class="bibtex_template">
-  <div class="if author" style="font-weight: bold;">
-    <span class="if year">
-      <span class="year"></span>,
-    </span>
-    <span class="author"></span>
-    <span class="if url" style="margin-left: 20px">
-      <a class="url" style="color:black; font-size:10px">(view online)</a>
-    </span>
-  </div>
-  <div style="margin-left: 10px; margin-bottom:5px;">
+  <div style="margin:0 0 2px 0; font-size:15px;">
     <span class="title"></span>
+  </div>
+  <div style="font-size:13px; color:#555; margin-bottom:2px;">
+    <span class="author"></span>
+  </div>
+  <div style="font-size:13px; margin-bottom:4px;">
+    <span class="if booktitle"><em style="color:#185FA5"><span class="booktitle"></span></em></span>
+    <span class="if journal"><em style="color:#185FA5"><span class="journal"></span></em></span>
+    <span class="if year">, <span class="year"></span></span>
+  </div>
+  <div style="font-size:12px; margin-bottom:10px;">
+    <span class="if url_Paper"><a class="bibtexVar" href="+url_Paper+" extra="url_Paper" target="_blank" style="color:#993C1D">Paper</a> &nbsp;</span>
+    <span class="if url_arXiv"><a class="bibtexVar" href="+url_arXiv+" extra="url_arXiv" target="_blank" style="color:#534AB7">arXiv</a> &nbsp;</span>
+    <span class="if url_Code"><a class="bibtexVar" href="+url_Code+" extra="url_Code" target="_blank" style="color:#0F6E56">Code</a> &nbsp;</span>
+    <span class="if doi"><a class="bibtexVar" href="https://doi.org/+doi+" extra="doi" target="_blank" style="color:#5F5E5A">DOI</a></span>
   </div>
 </div>
 
