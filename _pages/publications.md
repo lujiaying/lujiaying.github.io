@@ -21,13 +21,13 @@ You can also find my publications on <u><a href="{{author.googlescholar}}">my Go
 <bibtex src="../files/mypubs.bib"></bibtex>
 
 <style>
-#bibtex_display span.Jiaying.Lu { font-weight: bold; text-decoration: underline; text-underline-offset: 3px; }
+#bibtex_display span[class*="Jiaying Lu"] { font-weight: bold; text-decoration: underline; text-underline-offset: 3px; }
 </style>
 
 <div id="bibtex_display"></div>
 
 <div class="bibtex_template">
-  <div style="margin:0 0 2px 0; font-size:15px; font-weight: bold;">
+  <div style="margin:0 0 2px 0; font-size:14px; font-weight: bold;">
     <span class="title"></span>
   </div>
   <div style="font-size:13px; color:#555; margin-bottom:2px;">
@@ -36,6 +36,7 @@ You can also find my publications on <u><a href="{{author.googlescholar}}">my Go
   <div style="font-size:13px; margin-bottom:4px;">
     <span class="if booktitle"><em style="color:#185FA5"><span class="booktitle"></span></em></span>
     <span class="if journal"><em style="color:#185FA5"><span class="journal"></span></em></span>
+    <span class="if misc"><em style="color:#185FA5">preprint</em></span>
     <span class="if year">, <span class="year"></span></span>
   </div>
   <div style="font-size:12px; margin-bottom:10px;">
@@ -49,25 +50,25 @@ You can also find my publications on <u><a href="{{author.googlescholar}}">my Go
 <div class="bibtex_structure">
   <div class="sections bibtextypekey">
     <div class="section article">
-      <h1>Journal Articles</h1>
+      <h2>Journal Articles</h2>
       <div class="sort year" extra="DESC number">
         <div class="templates"></div>
       </div>
     </div>
     <div class="section book">
-      <h1>Books</h1>
+      <h2>Books</h2>
       <div class="sort year" extra="DESC number">
         <div class="templates"></div>
       </div>
     </div>
     <div class="section inproceedings">
-      <h1>Conference and Workshop Papers</h1>
+      <h2>Conference and Workshop Papers</h2>
       <div class="sort year" extra="DESC number">
         <div class="templates"></div>
       </div>
     </div>
     <div class="section misc|phdthesis|mastersthesis|bachelorsthesis|techreport">
-      <h1>Preprints</h1>
+      <h2>Preprint Reports</h2>
       <div class="sort year" extra="DESC number">
         <div class="templates"></div>
       </div>
