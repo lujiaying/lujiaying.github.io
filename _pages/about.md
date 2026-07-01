@@ -23,6 +23,7 @@ Latest News
 
 Students Worked with Me
 ======
+- [2026-now] Aria Pan. Undergrad at USC.
 - [2025-now] Jason Li. QTM Undergrad at Emory.
 - [2024-now] [Jasmine Zhou](https://scholar.google.com/citations?user=xq7WkOMAAAAJ). CS & Bio Undergrad at Emory.
 - [2024-now] [Victor Li](https://www.linkedin.com/in/victor-li-85b56027b/). CS Undergrad at Emory.

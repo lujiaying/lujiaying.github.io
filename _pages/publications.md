@@ -36,7 +36,6 @@ You can also find my publications on <u><a href="{{author.googlescholar}}">my Go
   <div style="font-size:13px; margin-bottom:4px;">
     <span class="if booktitle"><em style="color:#185FA5"><span class="booktitle"></span></em></span>
     <span class="if journal"><em style="color:#185FA5"><span class="journal"></span></em></span>
-    <span class="if misc"><em style="color:#185FA5">preprint</em></span>
     <span class="if year">, <span class="year"></span></span>
   </div>
   <div style="font-size:12px; margin-bottom:10px;">
