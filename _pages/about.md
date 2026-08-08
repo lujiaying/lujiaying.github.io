@@ -23,10 +23,11 @@ Latest News
 
 Students Worked with Me
 ======
+- [2026-now] Xuwei Chen. M.S. of Epidemiology at Emory.
 - [2026-now] Aria Pan. Undergrad at USC.
-- [2025-now] Jason Li. QTM Undergrad at Emory.
-- [2024-now] [Jasmine Zhou](https://scholar.google.com/citations?user=xq7WkOMAAAAJ). CS & Bio Undergrad at Emory.
 - [2024-now] [Victor Li](https://www.linkedin.com/in/victor-li-85b56027b/). CS Undergrad at Emory.
+- [2025-2026] Jason Li. QTM Undergrad at Emory.
+- [2024-2026] [Jasmine Zhou](https://scholar.google.com/citations?user=xq7WkOMAAAAJ). CS & Bio Undergrad at Emory.
 - [2025-2026] [Siyu Zhai](https://www.linkedin.com/in/siyu-liv-zhai-4001222a9/). Emory Rollins Applied Practice Experience M.S. of BioStats student.
 - [2024-2025] [Yuhao Xu](https://yuhaoxu99.github.io/). Visiting CS student at Emory.
 - [2024-2026] [Jonathan Wang](https://www.linkedin.com/in/jonathan-wang-53976a287/). CS Undergrad at Emory; first position: M.S. of Computer Science at UCLA.
