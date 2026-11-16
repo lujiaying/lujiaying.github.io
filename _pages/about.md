@@ -8,31 +8,30 @@ redirect_from:
   - /about.html
 ---
 I am a research-track Assistant Professor of Nursing Data Science since 2024, affiliated with the [Nell Hodgson Woodruff School of Nursing](https://www.nursing.emory.edu/)'s [Center for Data Science](https://www.nursing.emory.edu/initiatives/center-for-data-science) at Emory University.  
-I received my Ph.D. in Computer Science and Informatics at [Laney Graduate School](http://www.graduateschool.emory.edu/), [Emory University](http://www.emory.edu/home/index.html), advised by Dr. [Carl Yang](http://www.cs.emory.edu/~jyang71/) in Emory Graph Mining Lab.   
+I received my Ph.D. in Computer Science and Informatics at [Laney Graduate School](http://www.graduateschool.emory.edu/), [Emory University](http://www.emory.edu/home/index.html), advised by Dr. [Carl Yang](http://www.cs.emory.edu/~jyang71/) in Emory Graph Mining Lab. Before that, I received my M.Eng. in Electronics and Communication Engineering, and B.Sc. in Information Engingeering at Beijing University of Posts and Telecommunications.
 
 My research interests include Multimodal Biomedical AI, Large Language Models and Ontology & Knowledge Graph.  
 
 
 Latest News
 ======
+- \[Nov 2026]: I'm honored to serve as the Co-Chair for [33rd ACM SIGKDD Conference](https://kdd2027.kdd.org/)'s Undergraduate Consortium program.
 - \[Dec 2025]: I'm honored to receive the 2025-26 [RISE Pilot Grant](https://www.nursing.emory.edu/pages/rise-pilot-grant-program) in Children's Environmental Health from NIEHS [CHARTER](https://www.nursing.emory.edu/initiatives/charter).
 - \[Oct 2025]: Two papers get accepted by [BIBM'25](https://biod.whu.edu.cn/bibm2025/), representing our exploration on applied machine learning for omics data. One milestone for the first student-lead regular (aka full-length) peer-reviewed conference paper from my lab.
-- \[Nov 2024\]: Many thanks to [Atlanta Interdisciplinary Artificial Intelligence Network](https://www.aiai.network/) for funding our AI.humanity project "Understanding Generative AI’s Impact to Users from Various Religious Background" under the Seed Grants program. \[Jun 2025\]: our pilot study has been accepted by [KDD'25 SciSocLLM Workshop](https://kdd25scisocllm.github.io/).
-- \[Mar 2024\]: I'm honored to receive the [MCBIOS Young Scientist Excellence Award](https://2024.mcbios.com/ysea) (4th-place winner). Thanks the MCBIOS committee!
 
 
 Students Worked with Me
 ======
 - [2026-now] Xuwei Chen. M.S. of Epidemiology at Emory.
-- [2026-now] Aria Pan. Undergrad at USC.
-- [2024-now] [Victor Li](https://www.linkedin.com/in/victor-li-85b56027b/). CS Undergrad at Emory.
-- [2025-2026] Jason Li. QTM Undergrad at Emory.
+- [2026-now] Aria Pan. Applied Math Undergrad at USC.
+- [2024-now] [Katie Shao](https://www.linkedin.com/in/mingchen-shao-30309a246/). QTM Undergrad at Emory; first position: M.S. of Computer Science at Northwestern.
+- [2024-2026] [Victor Li](https://www.linkedin.com/in/victor-li-85b56027b/). CS Undergrad at Emory.
+- [2025-2026] Jason Li. QTM Undergrad at Emory; first position: Ph.D. of Life Science at Tsinghua University.
 - [2024-2026] [Jasmine Zhou](https://scholar.google.com/citations?user=xq7WkOMAAAAJ). CS & Bio Undergrad at Emory.
 - [2025-2026] [Siyu Zhai](https://www.linkedin.com/in/siyu-liv-zhai-4001222a9/). Emory Rollins Applied Practice Experience M.S. of BioStats student.
 - [2024-2025] [Yuhao Xu](https://yuhaoxu99.github.io/). Visiting CS student at Emory.
 - [2024-2026] [Jonathan Wang](https://www.linkedin.com/in/jonathan-wang-53976a287/). CS Undergrad at Emory; first position: M.S. of Computer Science at UCLA.
 - [2024-2025] [Shuyue Jiang](https://www.linkedin.com/in/shuyue-jiang-ada/). M.S. of Data Science at Emory.
-- [2024-2025] [Katie Shao](https://www.linkedin.com/in/mingchen-shao-30309a246/). QTM Undergrad at Emory; first position: M.S. of Computer Science at Northwestern.
 - [2024-2025] [Tung Dinh](https://www.linkedin.com/in/tung-dinh-50b3961b0) CS Honors Undergrad at Emory (Thesis committee); first position: M.S. at CMU.
 - [2024-2025] [Simon Liu](https://github.com/liuximeng2). CS Honors Undergrad at Emory (Thesis committee); first position: M.S. of Computational Data Science at CMU.
 - [2022-2023] [Yongchen Qian](https://qyccc3.github.io/). CS Undergrad at Emory; first position: M.S. of Software Engineering at CMU.
